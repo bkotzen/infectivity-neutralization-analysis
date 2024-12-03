@@ -1,0 +1,16 @@
+﻿Reference,Reference: DOI,Assay,Section,Infection (CP),Months,Host,Control,Control: NT50 Cmp,Control: NT50 GeoMean,Control: NT50 GSD,Variant,Variant: Pos,Variant: Mutations,# Results,Potency: NT50 Cmp,Potency: NT50 GeoMean,Potency: NT50 GSD,Fold Reduction: Cmp,Fold Reduction: Median
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,327.0,1.0,Y144T + Y145S + Y145ins,144,Y144T + Y145S + Y145ins,1,=,163.0,1.0,=,2.0
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,318.0,1.0,Y144T + Y145S + Y145ins,144,Y144T + Y145S + Y145ins,1,=,76.0,1.0,=,4.2
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,718.0,1.0,Y144T + Y145S + Y145ins,144,Y144T + Y145S + Y145ins,1,=,320.0,1.0,=,2.2
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,773.0,1.0,Y144T + Y145S + Y145ins,144,Y144T + Y145S + Y145ins,1,=,796.0,1.0,=,1.0
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,7834.0,1.0,Y144T + Y145S + Y145ins,144,Y144T + Y145S + Y145ins,1,=,3835.0,1.0,=,2.0
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,430.0,1.0,Y144T + Y145S + Y145ins,144,Y144T + Y145S + Y145ins,1,=,234.0,1.0,=,1.8
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,349.0,1.0,Y144T + Y145S + Y145ins,144,Y144T + Y145S + Y145ins,1,=,224.0,1.0,=,1.6
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,1762.0,1.0,Y144T + Y145S + Y145ins,144,Y144T + Y145S + Y145ins,1,=,1010.0,1.0,=,1.7
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,1819.0,1.0,Y144T + Y145S + Y145ins,144,Y144T + Y145S + Y145ins,1,=,1655.0,1.0,=,1.1
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,451.0,1.0,Y144T + Y145S + Y145ins,144,Y144T + Y145S + Y145ins,1,=,221.0,1.0,=,2.0
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,834.0,1.0,Y144T + Y145S + Y145ins,144,Y144T + Y145S + Y145ins,1,=,503.0,1.0,=,1.7
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,1178.0,1.0,Y144T + Y145S + Y145ins,144,Y144T + Y145S + Y145ins,1,=,377.0,1.0,=,3.1
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,2579.0,1.0,Y144T + Y145S + Y145ins,144,Y144T + Y145S + Y145ins,1,=,1194.0,1.0,=,2.2
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,4873.0,1.0,Y144T + Y145S + Y145ins,144,Y144T + Y145S + Y145ins,1,=,3164.0,1.0,=,1.5
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,996.0,1.0,Y144T + Y145S + Y145ins,144,Y144T + Y145S + Y145ins,1,=,747.0,1.0,=,1.3

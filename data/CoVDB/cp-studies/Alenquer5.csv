@@ -1,0 +1,13 @@
+﻿Reference,Reference: DOI,Assay,Section,Infection (CP),Months,Host,Control,Control: NT50 Cmp,Control: NT50 GeoMean,Control: NT50 GSD,Variant,Variant: Pos,Variant: Mutations,# Results,Potency: NT50 Cmp,Potency: NT50 GeoMean,Potency: NT50 GSD,Fold Reduction: Cmp,Fold Reduction: Median
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,621.0,1.0,Δ69-70 + N439K,69,Δ69-70 + N439K,1,=,926.0,1.0,=,0.7
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,120.0,1.0,Δ69-70 + N439K,69,Δ69-70 + N439K,1,=,272.0,1.0,=,0.4
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,43.0,1.0,Δ69-70 + N439K,69,Δ69-70 + N439K,1,<,30.0,1.0,>,1.4
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,954.0,1.0,Δ69-70 + N439K,69,Δ69-70 + N439K,1,=,1609.0,1.0,=,0.6
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,581.0,1.0,Δ69-70 + N439K,69,Δ69-70 + N439K,1,=,552.0,1.0,=,1.1
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,783.0,1.0,Δ69-70 + N439K,69,Δ69-70 + N439K,1,=,1520.0,1.0,=,0.5
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,167.0,1.0,Δ69-70 + N439K,69,Δ69-70 + N439K,1,=,290.0,1.0,=,0.6
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,97.0,1.0,Δ69-70 + N439K,69,Δ69-70 + N439K,1,=,158.0,1.0,=,0.6
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,74.0,1.0,Δ69-70 + N439K,69,Δ69-70 + N439K,1,=,155.0,1.0,=,0.5
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,81.0,1.0,Δ69-70 + N439K,69,Δ69-70 + N439K,1,=,54.0,1.0,=,1.5
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,71.0,1.0,Δ69-70 + N439K,69,Δ69-70 + N439K,1,=,189.0,1.0,=,0.4
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,573.0,1.0,Δ69-70 + N439K,69,Δ69-70 + N439K,1,=,487.0,1.0,=,1.2

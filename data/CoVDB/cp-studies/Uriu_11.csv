@@ -1,0 +1,12 @@
+﻿Reference,Reference: DOI,Assay,Section,Infection (CP),Months,Host,Control,Control: NT50 Cmp,Control: NT50 GeoMean,Control: NT50 GSD,Variant,Variant: Pos,Variant: Mutations,# Results,Potency: NT50 Cmp,Potency: NT50 GeoMean,Potency: NT50 GSD,Fold Reduction: Cmp,Fold Reduction: Median
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,293.0,1.0,Lambda,75,G75V + T76I + R246N + Δ247-253 + L452Q + F490S + T859N,1,=,159.0,1.0,=,1.8
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,327.0,1.0,Lambda,75,G75V + T76I + R246N + Δ247-253 + L452Q + F490S + T859N,1,=,76.0,1.0,=,4.3
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,318.0,1.0,Lambda,75,G75V + T76I + R246N + Δ247-253 + L452Q + F490S + T859N,1,=,129.0,1.0,=,2.5
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,718.0,1.0,Lambda,75,G75V + T76I + R246N + Δ247-253 + L452Q + F490S + T859N,1,=,247.0,1.0,=,2.9
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,773.0,1.0,Lambda,75,G75V + T76I + R246N + Δ247-253 + L452Q + F490S + T859N,1,=,217.0,1.0,=,3.6
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,7834.0,1.0,Lambda,75,G75V + T76I + R246N + Δ247-253 + L452Q + F490S + T859N,1,=,4442.0,1.0,=,1.8
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,430.0,1.0,Lambda,75,G75V + T76I + R246N + Δ247-253 + L452Q + F490S + T859N,1,=,84.0,1.0,=,5.1
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,349.0,1.0,Lambda,75,G75V + T76I + R246N + Δ247-253 + L452Q + F490S + T859N,1,=,214.0,1.0,=,1.6
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,1762.0,1.0,Lambda,75,G75V + T76I + R246N + Δ247-253 + L452Q + F490S + T859N,1,=,569.0,1.0,=,3.1
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,834.0,1.0,Lambda,75,G75V + T76I + R246N + Δ247-253 + L452Q + F490S + T859N,1,=,174.0,1.0,=,4.8
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,2579.0,1.0,Lambda,75,G75V + T76I + R246N + Δ247-253 + L452Q + F490S + T859N,1,=,489.0,1.0,=,5.3

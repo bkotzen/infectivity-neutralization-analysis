@@ -1,0 +1,15 @@
+﻿Reference,Reference: DOI,Assay,Section,Pre-vaccine Infection,Vaccine,# Shots,Months,Host,Control,Control: NT50 Cmp,Control: NT50 GeoMean,Control: NT50 GSD,Variant,Variant: Pos,Variant: Mutations,# Results,Potency: NT50 Cmp,Potency: NT50 GeoMean,Potency: NT50 GSD,Fold Reduction: Cmp,Fold Reduction: Median
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Supplementary Figure S2B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,5832.0,1.0,Iota/E484K,5,L5F + T95I + D253G + E484K + A701V,1,=,5148.0,1.0,=,1.1
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Supplementary Figure S2B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1816.0,1.0,Iota/E484K,5,L5F + T95I + D253G + E484K + A701V,1,=,964.0,1.0,=,1.9
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Supplementary Figure S2B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1087.0,1.0,Iota/E484K,5,L5F + T95I + D253G + E484K + A701V,1,=,434.0,1.0,=,2.5
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Supplementary Figure S2B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,874.0,1.0,Iota/E484K,5,L5F + T95I + D253G + E484K + A701V,1,=,808.0,1.0,=,1.1
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Supplementary Figure S2B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,843.0,1.0,Iota/E484K,5,L5F + T95I + D253G + E484K + A701V,1,=,591.0,1.0,=,1.4
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Supplementary Figure S2B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,650.0,1.0,Iota/E484K,5,L5F + T95I + D253G + E484K + A701V,1,=,348.0,1.0,=,1.9
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Supplementary Figure S2B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,5658.0,1.0,Iota/E484K,5,L5F + T95I + D253G + E484K + A701V,1,=,7101.0,1.0,=,0.8
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Supplementary Figure S2B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,4310.0,1.0,Iota/E484K,5,L5F + T95I + D253G + E484K + A701V,1,=,2947.0,1.0,=,1.5
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Supplementary Figure S2B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,3383.0,1.0,Iota/E484K,5,L5F + T95I + D253G + E484K + A701V,1,=,449.0,1.0,=,7.5
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Supplementary Figure S2B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,2292.0,1.0,Iota/E484K,5,L5F + T95I + D253G + E484K + A701V,1,=,854.0,1.0,=,2.7
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Supplementary Figure S2B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,2247.0,1.0,Iota/E484K,5,L5F + T95I + D253G + E484K + A701V,1,=,1281.0,1.0,=,1.8
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Supplementary Figure S2B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,2071.0,1.0,Iota/E484K,5,L5F + T95I + D253G + E484K + A701V,1,=,1142.0,1.0,=,1.8
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Supplementary Figure S2B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1973.0,1.0,Iota/E484K,5,L5F + T95I + D253G + E484K + A701V,1,=,789.0,1.0,=,2.5
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Supplementary Figure S2B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1865.0,1.0,Iota/E484K,5,L5F + T95I + D253G + E484K + A701V,1,=,1122.0,1.0,=,1.7

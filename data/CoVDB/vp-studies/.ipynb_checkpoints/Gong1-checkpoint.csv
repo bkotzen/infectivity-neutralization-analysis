@@ -1,0 +1,6 @@
+﻿Reference,Reference: DOI,Assay,Section,Pre-vaccine Infection,Vaccine,# Shots,Months,Host,Control,Control: NT50 Cmp,Control: NT50 GeoMean,Control: NT50 GSD,Variant,Variant: Pos,Variant: Mutations,# Results,Potency: NT50 Cmp,Potency: NT50 GeoMean,Potency: NT50 GSD,Fold Reduction: Cmp,Fold Reduction: Median
+Gong21,10.1016/j.virol.2021.09.001,Pseudovirus (HIV),Figure 6,Wild Type,BNT162b2,1,1m,Human,Wild Type (B.1),=,1946.0,1.0,Epsilon,13,S13I + W152C + L452R,1,=,1134.0,1.0,=,1.7
+Gong21,10.1016/j.virol.2021.09.001,Pseudovirus (HIV),Figure 6,Wild Type,BNT162b2,1,1m,Human,Wild Type (B.1),=,2004.0,1.0,Epsilon,13,S13I + W152C + L452R,1,=,1006.0,1.0,=,2.0
+Gong21,10.1016/j.virol.2021.09.001,Pseudovirus (HIV),Figure 6,Wild Type,BNT162b2,1,1m,Human,Wild Type (B.1),=,3354.0,1.0,Epsilon,13,S13I + W152C + L452R,1,=,1581.0,1.0,=,2.1
+Gong21,10.1016/j.virol.2021.09.001,Pseudovirus (HIV),Figure 6,Wild Type,BNT162b2,1,1m,Human,Wild Type (B.1),=,4054.0,1.0,Epsilon,13,S13I + W152C + L452R,1,=,2833.0,1.0,=,1.4
+Gong21,10.1016/j.virol.2021.09.001,Pseudovirus (HIV),Figure 6,Wild Type,BNT162b2,1,1m,Human,Wild Type (B.1),=,7841.0,1.0,Epsilon,13,S13I + W152C + L452R,1,=,1813.0,1.0,=,4.3

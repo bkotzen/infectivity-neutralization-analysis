@@ -1,0 +1,2 @@
+﻿Reference,Reference: DOI,Assay,Section,Infection (CP),Months,Host,Control,Control: NT50 Cmp,Control: NT50 GeoMean,Control: NT50 GSD,Variant,Variant: Pos,Variant: Mutations,# Results,Potency: NT50 Cmp,Potency: NT50 GeoMean,Potency: NT50 GSD,Fold Reduction: Cmp,Fold Reduction: Median
+Weigang21,10.1038/s41467-021-26602-3,Pseudovirus (VSV),"Figure 5c, Source data",Wild Type,1m,Human,Wild Type (B.1),=,600.0,1.0,S13I + Δ141-144 + Δ244-247 + F490L,13,S13I + Δ141-144 + Δ244-247 + F490L,1,=,72.0,1.0,=,8.3

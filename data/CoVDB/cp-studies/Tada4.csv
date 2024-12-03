@@ -1,0 +1,9 @@
+﻿Reference,Reference: DOI,Assay,Section,Infection (CP),Months,Host,Control,Control: NT50 Cmp,Control: NT50 GeoMean,Control: NT50 GSD,Variant,Variant: Pos,Variant: Mutations,# Results,Potency: NT50 Cmp,Potency: NT50 GeoMean,Potency: NT50 GSD,Fold Reduction: Cmp,Fold Reduction: Median
+Tada21e,10.3389/fimmu.2022.797589,Pseudovirus (HIV),Supplementary Figure S1A,Wild Type,2-6m,Human,Wild Type (B.1),=,251.0,1.0,G75V + T76I,75,G75V + T76I,1,=,285.0,1.0,=,0.9
+Tada21e,10.3389/fimmu.2022.797589,Pseudovirus (HIV),Supplementary Figure S1A,Wild Type,2-6m,Human,Wild Type (B.1),=,176.0,1.0,G75V + T76I,75,G75V + T76I,1,=,263.0,1.0,=,0.7
+Tada21e,10.3389/fimmu.2022.797589,Pseudovirus (HIV),Supplementary Figure S1A,Wild Type,2-6m,Human,Wild Type (B.1),=,77.0,1.0,G75V + T76I,75,G75V + T76I,1,=,103.0,1.0,=,0.7
+Tada21e,10.3389/fimmu.2022.797589,Pseudovirus (HIV),Supplementary Figure S1A,Wild Type,2-6m,Human,Wild Type (B.1),=,406.0,1.0,G75V + T76I,75,G75V + T76I,1,=,457.0,1.0,=,0.9
+Tada21e,10.3389/fimmu.2022.797589,Pseudovirus (HIV),Supplementary Figure S1A,Wild Type,2-6m,Human,Wild Type (B.1),=,602.0,1.0,G75V + T76I,75,G75V + T76I,1,=,605.0,1.0,=,1.0
+Tada21e,10.3389/fimmu.2022.797589,Pseudovirus (HIV),Supplementary Figure S1A,Wild Type,2-6m,Human,Wild Type (B.1),=,383.0,1.0,G75V + T76I,75,G75V + T76I,1,=,266.0,1.0,=,1.4
+Tada21e,10.3389/fimmu.2022.797589,Pseudovirus (HIV),Supplementary Figure S1A,Wild Type,2-6m,Human,Wild Type (B.1),=,520.0,1.0,G75V + T76I,75,G75V + T76I,1,=,424.0,1.0,=,1.2
+Tada21e,10.3389/fimmu.2022.797589,Pseudovirus (HIV),Supplementary Figure S1A,Wild Type,2-6m,Human,Wild Type (B.1),=,359.0,1.0,G75V + T76I,75,G75V + T76I,1,=,284.0,1.0,=,1.3

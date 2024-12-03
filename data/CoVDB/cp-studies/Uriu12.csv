@@ -1,0 +1,31 @@
+﻿Reference,Reference: DOI,Assay,Section,Infection (CP),Months,Host,Control,Control: NT50 Cmp,Control: NT50 GeoMean,Control: NT50 GSD,Variant,Variant: Pos,Variant: Mutations,# Results,Potency: NT50 Cmp,Potency: NT50 GeoMean,Potency: NT50 GSD,Fold Reduction: Cmp,Fold Reduction: Median
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,327.0,1.0,Mu,95,T95I + Y144T + Y145S + Y145ins + R346K + E484K + N501Y + P681H + D950N,1,=,47.0,1.0,=,7.0
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,318.0,1.0,Mu,95,T95I + Y144T + Y145S + Y145ins + R346K + E484K + N501Y + P681H + D950N,1,<,40.0,1.0,>,8.0
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,718.0,1.0,Mu,95,T95I + Y144T + Y145S + Y145ins + R346K + E484K + N501Y + P681H + D950N,1,<,40.0,1.0,>,18.0
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,773.0,1.0,Mu,95,T95I + Y144T + Y145S + Y145ins + R346K + E484K + N501Y + P681H + D950N,1,=,106.0,1.0,=,7.3
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,7834.0,1.0,Mu,95,T95I + Y144T + Y145S + Y145ins + R346K + E484K + N501Y + P681H + D950N,1,=,844.0,1.0,=,9.3
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,430.0,1.0,Mu,95,T95I + Y144T + Y145S + Y145ins + R346K + E484K + N501Y + P681H + D950N,1,<,40.0,1.0,>,10.8
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,349.0,1.0,Mu,95,T95I + Y144T + Y145S + Y145ins + R346K + E484K + N501Y + P681H + D950N,1,=,48.0,1.0,=,7.3
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,1762.0,1.0,Mu,95,T95I + Y144T + Y145S + Y145ins + R346K + E484K + N501Y + P681H + D950N,1,=,265.0,1.0,=,6.6
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,1819.0,1.0,Mu,95,T95I + Y144T + Y145S + Y145ins + R346K + E484K + N501Y + P681H + D950N,1,=,274.0,1.0,=,6.6
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,451.0,1.0,Mu,95,T95I + Y144T + Y145S + Y145ins + R346K + E484K + N501Y + P681H + D950N,1,=,86.0,1.0,=,5.2
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,834.0,1.0,Mu,95,T95I + Y144T + Y145S + Y145ins + R346K + E484K + N501Y + P681H + D950N,1,=,46.0,1.0,=,18.1
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,1178.0,1.0,Mu,95,T95I + Y144T + Y145S + Y145ins + R346K + E484K + N501Y + P681H + D950N,1,=,72.0,1.0,=,16.4
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,2579.0,1.0,Mu,95,T95I + Y144T + Y145S + Y145ins + R346K + E484K + N501Y + P681H + D950N,1,=,260.0,1.0,=,9.9
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,4873.0,1.0,Mu,95,T95I + Y144T + Y145S + Y145ins + R346K + E484K + N501Y + P681H + D950N,1,=,356.0,1.0,=,13.7
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,996.0,1.0,Mu,95,T95I + Y144T + Y145S + Y145ins + R346K + E484K + N501Y + P681H + D950N,1,=,198.0,1.0,=,5.0
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,327.0,1.0,Mu,95,T95I + R346K + E484K + N501Y + P681H + D950N,1,=,79.0,1.0,=,4.1
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,318.0,1.0,Mu,95,T95I + R346K + E484K + N501Y + P681H + D950N,1,<,40.0,1.0,>,8.0
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,718.0,1.0,Mu,95,T95I + R346K + E484K + N501Y + P681H + D950N,1,=,309.0,1.0,=,2.3
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,773.0,1.0,Mu,95,T95I + R346K + E484K + N501Y + P681H + D950N,1,=,117.0,1.0,=,6.6
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,7834.0,1.0,Mu,95,T95I + R346K + E484K + N501Y + P681H + D950N,1,=,1321.0,1.0,=,5.9
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,430.0,1.0,Mu,95,T95I + R346K + E484K + N501Y + P681H + D950N,1,=,124.0,1.0,=,3.5
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,349.0,1.0,Mu,95,T95I + R346K + E484K + N501Y + P681H + D950N,1,=,244.0,1.0,=,1.4
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,1762.0,1.0,Mu,95,T95I + R346K + E484K + N501Y + P681H + D950N,1,=,1198.0,1.0,=,1.5
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,1819.0,1.0,Mu,95,T95I + R346K + E484K + N501Y + P681H + D950N,1,=,651.0,1.0,=,2.8
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,451.0,1.0,Mu,95,T95I + R346K + E484K + N501Y + P681H + D950N,1,=,136.0,1.0,=,3.3
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,834.0,1.0,Mu,95,T95I + R346K + E484K + N501Y + P681H + D950N,1,=,736.0,1.0,=,1.1
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,1178.0,1.0,Mu,95,T95I + R346K + E484K + N501Y + P681H + D950N,1,=,697.0,1.0,=,1.7
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,2579.0,1.0,Mu,95,T95I + R346K + E484K + N501Y + P681H + D950N,1,=,684.0,1.0,=,3.8
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,4873.0,1.0,Mu,95,T95I + R346K + E484K + N501Y + P681H + D950N,1,=,1868.0,1.0,=,2.6
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,996.0,1.0,Mu,95,T95I + R346K + E484K + N501Y + P681H + D950N,1,=,272.0,1.0,=,3.7

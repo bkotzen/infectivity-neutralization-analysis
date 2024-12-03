@@ -1,0 +1,15 @@
+﻿Reference,Reference: DOI,Assay,Section,Pre-vaccine Infection,Vaccine,# Shots,Months,Host,Control,Control: NT50 Cmp,Control: NT50 GeoMean,Control: NT50 GSD,Variant,Variant: Pos,Variant: Mutations,# Results,Potency: NT50 Cmp,Potency: NT50 GeoMean,Potency: NT50 GSD,Fold Reduction: Cmp,Fold Reduction: Median
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Supplementary Figure S2B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,5832.0,1.0,L452R + T478K,452,L452R + T478K,1,=,5335.0,1.0,=,1.1
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Supplementary Figure S2B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1816.0,1.0,L452R + T478K,452,L452R + T478K,1,=,2338.0,1.0,=,0.8
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Supplementary Figure S2B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1087.0,1.0,L452R + T478K,452,L452R + T478K,1,=,678.0,1.0,=,1.6
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Supplementary Figure S2B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,874.0,1.0,L452R + T478K,452,L452R + T478K,1,=,825.0,1.0,=,1.1
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Supplementary Figure S2B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,843.0,1.0,L452R + T478K,452,L452R + T478K,1,=,828.0,1.0,=,1.0
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Supplementary Figure S2B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,650.0,1.0,L452R + T478K,452,L452R + T478K,1,=,663.0,1.0,=,1.0
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Supplementary Figure S2B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,5658.0,1.0,L452R + T478K,452,L452R + T478K,1,=,6782.0,1.0,=,0.8
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Supplementary Figure S2B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,4310.0,1.0,L452R + T478K,452,L452R + T478K,1,=,3970.0,1.0,=,1.1
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Supplementary Figure S2B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,3383.0,1.0,L452R + T478K,452,L452R + T478K,1,=,1081.0,1.0,=,3.1
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Supplementary Figure S2B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,2292.0,1.0,L452R + T478K,452,L452R + T478K,1,=,1578.0,1.0,=,1.5
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Supplementary Figure S2B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,2247.0,1.0,L452R + T478K,452,L452R + T478K,1,=,1967.0,1.0,=,1.1
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Supplementary Figure S2B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,2071.0,1.0,L452R + T478K,452,L452R + T478K,1,=,4251.0,1.0,=,0.5
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Supplementary Figure S2B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1973.0,1.0,L452R + T478K,452,L452R + T478K,1,=,1628.0,1.0,=,1.2
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Supplementary Figure S2B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1865.0,1.0,L452R + T478K,452,L452R + T478K,1,=,1467.0,1.0,=,1.3

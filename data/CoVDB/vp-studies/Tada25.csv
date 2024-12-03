@@ -1,0 +1,8 @@
+﻿Reference,Reference: DOI,Assay,Section,Pre-vaccine Infection,Vaccine,# Shots,Months,Host,Control,Control: NT50 Cmp,Control: NT50 GeoMean,Control: NT50 GSD,Variant,Variant: Pos,Variant: Mutations,# Results,Potency: NT50 Cmp,Potency: NT50 GeoMean,Potency: NT50 GSD,Fold Reduction: Cmp,Fold Reduction: Median
+Tada21e,10.3389/fimmu.2022.797589,Pseudovirus (HIV),Supplementary Table 1,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1380.0,1.0,Lambda,75,G75V + T76I + Δ246-252 + L452Q + F490S + M869N,1,=,472.0,1.0,=,2.9
+Tada21e,10.3389/fimmu.2022.797589,Pseudovirus (HIV),Supplementary Table 1,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1963.0,1.0,Lambda,75,G75V + T76I + Δ246-252 + L452Q + F490S + M869N,1,=,1185.0,1.0,=,1.7
+Tada21e,10.3389/fimmu.2022.797589,Pseudovirus (HIV),Supplementary Table 1,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1010.0,1.0,Lambda,75,G75V + T76I + Δ246-252 + L452Q + F490S + M869N,1,=,209.0,1.0,=,4.8
+Tada21e,10.3389/fimmu.2022.797589,Pseudovirus (HIV),Supplementary Table 1,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1305.0,1.0,Lambda,75,G75V + T76I + Δ246-252 + L452Q + F490S + M869N,1,=,427.0,1.0,=,3.1
+Tada21e,10.3389/fimmu.2022.797589,Pseudovirus (HIV),Supplementary Table 1,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1879.0,1.0,Lambda,75,G75V + T76I + Δ246-252 + L452Q + F490S + M869N,1,=,880.0,1.0,=,2.1
+Tada21e,10.3389/fimmu.2022.797589,Pseudovirus (HIV),Supplementary Table 1,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,2028.0,1.0,Lambda,75,G75V + T76I + Δ246-252 + L452Q + F490S + M869N,1,=,946.0,1.0,=,2.1
+Tada21e,10.3389/fimmu.2022.797589,Pseudovirus (HIV),Supplementary Table 2,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,856.0,1.0,Lambda,75,G75V + T76I + Δ246-252 + L452Q + F490S + M869N,1,=,258.0,1.0,=,3.3

@@ -1,0 +1,16 @@
+﻿Reference,Reference: DOI,Assay,Section,Pre-vaccine Infection,Vaccine,# Shots,Months,Host,Control,Control: NT50 Cmp,Control: NT50 GeoMean,Control: NT50 GSD,Variant,Variant: Pos,Variant: Mutations,# Results,Potency: NT50 Cmp,Potency: NT50 GeoMean,Potency: NT50 GSD,Fold Reduction: Cmp,Fold Reduction: Median
+Turelli22,10.1101/2022.05.02.22274436,Virus isolate,Figure 2I,None,mRNA,2,2-6m,Human,Wild Type (B.1),=,404.0,1.0,Beta,18,L18F + D80A + D215G + K417N + E484K + N501Y + A701V,1,=,76.0,1.0,=,5.3
+Turelli22,10.1101/2022.05.02.22274436,Virus isolate,Figure 2I,None,mRNA,2,2-6m,Human,Wild Type (B.1),=,219.0,1.0,Beta,18,L18F + D80A + D215G + K417N + E484K + N501Y + A701V,1,=,56.0,1.0,=,3.9
+Turelli22,10.1101/2022.05.02.22274436,Virus isolate,Figure 2I,None,mRNA,2,2-6m,Human,Wild Type (B.1),=,780.0,1.0,Beta,18,L18F + D80A + D215G + K417N + E484K + N501Y + A701V,1,=,145.0,1.0,=,5.4
+Turelli22,10.1101/2022.05.02.22274436,Virus isolate,Figure 2I,None,mRNA,2,2-6m,Human,Wild Type (B.1),=,634.0,1.0,Beta,18,L18F + D80A + D215G + K417N + E484K + N501Y + A701V,1,=,170.0,1.0,=,3.7
+Turelli22,10.1101/2022.05.02.22274436,Virus isolate,Figure 2I,None,mRNA,2,2-6m,Human,Wild Type (B.1),=,214.0,1.0,Beta,18,L18F + D80A + D215G + K417N + E484K + N501Y + A701V,1,=,52.0,1.0,=,4.1
+Turelli22,10.1101/2022.05.02.22274436,Virus isolate,Figure 2I,None,mRNA,2,2-6m,Human,Wild Type (B.1),=,64.0,1.0,Beta,18,L18F + D80A + D215G + K417N + E484K + N501Y + A701V,1,<,5.0,1.0,>,12.8
+Turelli22,10.1101/2022.05.02.22274436,Virus isolate,Figure 2I,None,mRNA,2,2-6m,Human,Wild Type (B.1),=,930.0,1.0,Beta,18,L18F + D80A + D215G + K417N + E484K + N501Y + A701V,1,=,115.0,1.0,=,8.1
+Turelli22,10.1101/2022.05.02.22274436,Virus isolate,Figure 2I,None,mRNA,2,2-6m,Human,Wild Type (B.1),=,217.0,1.0,Beta,18,L18F + D80A + D215G + K417N + E484K + N501Y + A701V,1,<,32.0,1.0,>,6.8
+Turelli22,10.1101/2022.05.02.22274436,Virus isolate,Figure 2I,None,mRNA,2,2-6m,Human,Wild Type (B.1),=,178.0,1.0,Beta,18,L18F + D80A + D215G + K417N + E484K + N501Y + A701V,1,<,32.0,1.0,>,5.6
+Turelli22,10.1101/2022.05.02.22274436,Virus isolate,Figure 2I,None,mRNA,2,2-6m,Human,Wild Type (B.1),=,76.0,1.0,Beta,18,L18F + D80A + D215G + K417N + E484K + N501Y + A701V,1,<,39.0,1.0,>,1.9
+Turelli22,10.1101/2022.05.02.22274436,Virus isolate,Figure 2I,None,mRNA,2,2-6m,Human,Wild Type (B.1),=,109.0,1.0,Beta,18,L18F + D80A + D215G + K417N + E484K + N501Y + A701V,1,=,162.0,1.0,=,0.7
+Turelli22,10.1101/2022.05.02.22274436,Virus isolate,Figure 2I,None,mRNA,2,2-6m,Human,Wild Type (B.1),=,669.0,1.0,Beta,18,L18F + D80A + D215G + K417N + E484K + N501Y + A701V,1,=,80.0,1.0,=,8.4
+Turelli22,10.1101/2022.05.02.22274436,Virus isolate,Figure 2I,None,mRNA,2,2-6m,Human,Wild Type (B.1),=,238.0,1.0,Beta,18,L18F + D80A + D215G + K417N + E484K + N501Y + A701V,1,<,37.0,1.0,>,6.4
+Turelli22,10.1101/2022.05.02.22274436,Virus isolate,Figure 2I,None,mRNA,2,2-6m,Human,Wild Type (B.1),=,201.0,1.0,Beta,18,L18F + D80A + D215G + K417N + E484K + N501Y + A701V,1,=,91.0,1.0,=,2.2
+Turelli22,10.1101/2022.05.02.22274436,Virus isolate,Figure 2I,None,mRNA,2,2-6m,Human,Wild Type (B.1),=,615.0,1.0,Beta,18,L18F + D80A + D215G + K417N + E484K + N501Y + A701V,1,<,50.0,1.0,>,12.3

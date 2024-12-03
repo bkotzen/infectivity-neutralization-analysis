@@ -1,0 +1,12 @@
+﻿Reference,Reference: DOI,Assay,Section,Infection (CP),Months,Host,Control,Control: NT50 Cmp,Control: NT50 GeoMean,Control: NT50 GSD,Variant,Variant: Pos,Variant: Mutations,# Results,Potency: NT50 Cmp,Potency: NT50 GeoMean,Potency: NT50 GSD,Fold Reduction: Cmp,Fold Reduction: Median
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,293.0,1.0,Epsilon,13,S13I + W152C + L452R,1,=,260.0,1.0,=,1.1
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,327.0,1.0,Epsilon,13,S13I + W152C + L452R,1,=,278.0,1.0,=,1.2
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,318.0,1.0,Epsilon,13,S13I + W152C + L452R,1,=,877.0,1.0,=,0.4
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,718.0,1.0,Epsilon,13,S13I + W152C + L452R,1,=,145.0,1.0,=,5.0
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,773.0,1.0,Epsilon,13,S13I + W152C + L452R,1,=,362.0,1.0,=,2.1
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,7834.0,1.0,Epsilon,13,S13I + W152C + L452R,1,=,3613.0,1.0,=,2.2
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,430.0,1.0,Epsilon,13,S13I + W152C + L452R,1,=,260.0,1.0,=,1.7
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,349.0,1.0,Epsilon,13,S13I + W152C + L452R,1,=,371.0,1.0,=,0.9
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,1762.0,1.0,Epsilon,13,S13I + W152C + L452R,1,=,1502.0,1.0,=,1.2
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,834.0,1.0,Epsilon,13,S13I + W152C + L452R,1,=,404.0,1.0,=,2.1
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,2579.0,1.0,Epsilon,13,S13I + W152C + L452R,1,=,624.0,1.0,=,4.1

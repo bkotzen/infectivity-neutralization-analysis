@@ -1,0 +1,19 @@
+﻿Reference,Reference: DOI,Assay,Section,Infection (CP),Months,Host,Control,Control: NT50 Cmp,Control: NT50 GeoMean,Control: NT50 GSD,Variant,Variant: Pos,Variant: Mutations,# Results,Potency: NT50 Cmp,Potency: NT50 GeoMean,Potency: NT50 GSD,Fold Reduction: Cmp,Fold Reduction: Median
+Tada21,10.1128/mBio.00696-21,Pseudovirus (HIV),Table 1,Wild Type,1m,Human,Wild Type (B.1),=,256.0,1.0,B.1.1.298,69,Δ69-70 + Y453F + I692V + S1147L + M1229I,1,=,483.0,1.0,=,0.5
+Tada21,10.1128/mBio.00696-21,Pseudovirus (HIV),Table 1,Wild Type,1m,Human,Wild Type (B.1),=,135.0,1.0,B.1.1.298,69,Δ69-70 + Y453F + I692V + S1147L + M1229I,1,=,367.0,1.0,=,0.4
+Tada21,10.1128/mBio.00696-21,Pseudovirus (HIV),Table 1,Wild Type,1m,Human,Wild Type (B.1),=,102.0,1.0,B.1.1.298,69,Δ69-70 + Y453F + I692V + S1147L + M1229I,1,=,260.0,1.0,=,0.4
+Tada21,10.1128/mBio.00696-21,Pseudovirus (HIV),Table 1,Wild Type,1m,Human,Wild Type (B.1),=,392.0,1.0,B.1.1.298,69,Δ69-70 + Y453F + I692V + S1147L + M1229I,1,=,534.0,1.0,=,0.7
+Tada21,10.1128/mBio.00696-21,Pseudovirus (HIV),Table 1,Wild Type,1m,Human,Wild Type (B.1),=,190.0,1.0,B.1.1.298,69,Δ69-70 + Y453F + I692V + S1147L + M1229I,1,=,443.0,1.0,=,0.4
+Tada21,10.1128/mBio.00696-21,Pseudovirus (HIV),Table 1,Wild Type,1m,Human,Wild Type (B.1),=,216.0,1.0,B.1.1.298,69,Δ69-70 + Y453F + I692V + S1147L + M1229I,1,=,442.0,1.0,=,0.5
+Tada21,10.1128/mBio.00696-21,Pseudovirus (HIV),Table 1,Wild Type,1m,Human,Wild Type (B.1),=,164.0,1.0,B.1.1.298,69,Δ69-70 + Y453F + I692V + S1147L + M1229I,1,=,427.0,1.0,=,0.4
+Tada21,10.1128/mBio.00696-21,Pseudovirus (HIV),Table 1,Wild Type,1m,Human,Wild Type (B.1),=,41.0,1.0,B.1.1.298,69,Δ69-70 + Y453F + I692V + S1147L + M1229I,1,=,52.0,1.0,=,0.8
+Tada21,10.1128/mBio.00696-21,Pseudovirus (HIV),Table 1,Wild Type,1m,Human,Wild Type (B.1),=,35.0,1.0,B.1.1.298,69,Δ69-70 + Y453F + I692V + S1147L + M1229I,1,=,52.0,1.0,=,0.7
+Tada21,10.1128/mBio.00696-21,Pseudovirus (HIV),Table 1,Wild Type,1m,Human,Wild Type (B.1),=,114.0,1.0,B.1.1.298,69,Δ69-70 + Y453F + I692V + S1147L + M1229I,1,=,293.0,1.0,=,0.4
+Tada21,10.1128/mBio.00696-21,Pseudovirus (HIV),Table 1,Wild Type,1m,Human,Wild Type (B.1),=,227.0,1.0,B.1.1.298,69,Δ69-70 + Y453F + I692V + S1147L + M1229I,1,=,381.0,1.0,=,0.6
+Tada21,10.1128/mBio.00696-21,Pseudovirus (HIV),Table 1,Wild Type,1m,Human,Wild Type (B.1),=,151.0,1.0,B.1.1.298,69,Δ69-70 + Y453F + I692V + S1147L + M1229I,1,=,259.0,1.0,=,0.6
+Tada21,10.1128/mBio.00696-21,Pseudovirus (HIV),Table 1,Wild Type,1m,Human,Wild Type (B.1),=,65.0,1.0,B.1.1.298,69,Δ69-70 + Y453F + I692V + S1147L + M1229I,1,=,107.0,1.0,=,0.6
+Tada21,10.1128/mBio.00696-21,Pseudovirus (HIV),Table 1,Wild Type,1m,Human,Wild Type (B.1),=,42.0,1.0,B.1.1.298,69,Δ69-70 + Y453F + I692V + S1147L + M1229I,1,=,104.0,1.0,=,0.4
+Tada21,10.1128/mBio.00696-21,Pseudovirus (HIV),Table 1,Wild Type,1m,Human,Wild Type (B.1),=,88.0,1.0,B.1.1.298,69,Δ69-70 + Y453F + I692V + S1147L + M1229I,1,=,164.0,1.0,=,0.5
+Tada21,10.1128/mBio.00696-21,Pseudovirus (HIV),Table 1,Wild Type,1m,Human,Wild Type (B.1),=,46.0,1.0,B.1.1.298,69,Δ69-70 + Y453F + I692V + S1147L + M1229I,1,=,79.0,1.0,=,0.6
+Tada21,10.1128/mBio.00696-21,Pseudovirus (HIV),Table 1,Wild Type,1m,Human,Wild Type (B.1),=,109.0,1.0,B.1.1.298,69,Δ69-70 + Y453F + I692V + S1147L + M1229I,1,=,231.0,1.0,=,0.5
+Tada21,10.1128/mBio.00696-21,Pseudovirus (HIV),Table 1,Wild Type,1m,Human,Wild Type (B.1),=,123.0,1.0,B.1.1.298,69,Δ69-70 + Y453F + I692V + S1147L + M1229I,1,=,163.0,1.0,=,0.8

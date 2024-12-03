@@ -1,0 +1,9 @@
+﻿Reference,Reference: DOI,Assay,Section,Infection (CP),Months,Host,Control,Control: NT50 Cmp,Control: NT50 GeoMean,Control: NT50 GSD,Variant,Variant: Pos,Variant: Mutations,# Results,Potency: NT50 Cmp,Potency: NT50 GeoMean,Potency: NT50 GSD,Fold Reduction: Cmp,Fold Reduction: Median
+Turelli22,10.1101/2022.05.02.22274436,Virus isolate,Figure 2F,Alpha,1m,Human,Wild Type (B.1),=,215.0,1.0,Kappa,95,T95I + G142D + E154K + L452R + E484Q + P681R + Q1071H,1,=,117.0,1.0,=,1.8
+Turelli22,10.1101/2022.05.02.22274436,Virus isolate,Figure 2F,Alpha,1m,Human,Wild Type (B.1),=,61.0,1.0,Kappa,95,T95I + G142D + E154K + L452R + E484Q + P681R + Q1071H,1,<,24.0,1.0,>,2.5
+Turelli22,10.1101/2022.05.02.22274436,Virus isolate,Figure 2F,Alpha,1m,Human,Wild Type (B.1),=,52.0,1.0,Kappa,95,T95I + G142D + E154K + L452R + E484Q + P681R + Q1071H,1,=,103.0,1.0,=,0.5
+Turelli22,10.1101/2022.05.02.22274436,Virus isolate,Figure 2F,Alpha,1m,Human,Wild Type (B.1),=,250.0,1.0,Kappa,95,T95I + G142D + E154K + L452R + E484Q + P681R + Q1071H,1,=,152.0,1.0,=,1.6
+Turelli22,10.1101/2022.05.02.22274436,Virus isolate,Figure 2F,Alpha,1m,Human,Wild Type (B.1),=,1114.0,1.0,Kappa,95,T95I + G142D + E154K + L452R + E484Q + P681R + Q1071H,1,=,100.0,1.0,=,11.1
+Turelli22,10.1101/2022.05.02.22274436,Virus isolate,Figure 2F,Alpha,1m,Human,Wild Type (B.1),=,65.0,1.0,Kappa,95,T95I + G142D + E154K + L452R + E484Q + P681R + Q1071H,1,<,22.0,1.0,>,3.0
+Turelli22,10.1101/2022.05.02.22274436,Virus isolate,Figure 2F,Alpha,1m,Human,Wild Type (B.1),=,283.0,1.0,Kappa,95,T95I + G142D + E154K + L452R + E484Q + P681R + Q1071H,1,<,25.0,1.0,>,11.3
+Turelli22,10.1101/2022.05.02.22274436,Virus isolate,Figure 2F,Alpha,1m,Human,Wild Type (B.1),=,245.0,1.0,Kappa,95,T95I + G142D + E154K + L452R + E484Q + P681R + Q1071H,1,=,205.0,1.0,=,1.2
