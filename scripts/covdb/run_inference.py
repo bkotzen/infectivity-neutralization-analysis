@@ -11,15 +11,16 @@ import pyro
 from pyro.infer import MCMC, NUTS
 
 from utils import load_plasma_lite, one_hot
-from model import model_MCMC as model
+from model import model_MCMC_specσβ as model
 
 
-def save_results(traces, svi_data, date):
+def save_results(traces, svi_data, args):
+    date = args.date
     results = dict()
     results['traces'] = traces
     results['data'] = svi_data
     
-    outfile = f'../../model_covdb/results.{date}.pt'
+    outfile = f'../../model_covdb/results.{date}.sb{args.sb}.pt'
     torch.save(results, outfile)
     return results
 
@@ -66,12 +67,13 @@ def run_mcmc(mcmc_data, args):
              mcmc_data['Y'], 
              mcmc_data['plasma_type_data'], 
              mcmc_data['assay_type_data'], 
-             mcmc_data['pools'])
+             mcmc_data['pools'],
+             args.sb)
     
     posterior_samples = mcmc.get_samples()
     
     # Save 
-    results = save_results(posterior_samples, mcmc_data, args.date)
+    results = save_results(posterior_samples, mcmc_data, args)
     
     return results
 
@@ -93,6 +95,7 @@ if __name__ == "__main__":
     parser.add_argument("--dtype", default="float32")
     parser.add_argument("--num-samples", type=int, default=2500)
     parser.add_argument("--warmup-steps", type=int, default=2500)
+    parser.add_argument("-sb", type=float, default=1.)
     args = parser.parse_args()
     args.dtype = eval('torch.'+args.dtype)
     args.date = dt.today().strftime('%Y-%m-%d')
