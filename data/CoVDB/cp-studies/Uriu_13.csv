@@ -1,0 +1,12 @@
+﻿Reference,Reference: DOI,Assay,Section,Infection (CP),Months,Host,Control,Control: NT50 Cmp,Control: NT50 GeoMean,Control: NT50 GSD,Variant,Variant: Pos,Variant: Mutations,# Results,Potency: NT50 Cmp,Potency: NT50 GeoMean,Potency: NT50 GSD,Fold Reduction: Cmp,Fold Reduction: Median
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,293.0,1.0,Mu,95,T95I + Y144S + Y144ins + Y145N + R346K + E484K + N501Y + P681H + D950N,1,=,44.0,1.0,=,6.7
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,327.0,1.0,Mu,95,T95I + Y144S + Y144ins + Y145N + R346K + E484K + N501Y + P681H + D950N,1,=,47.0,1.0,=,7.0
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,318.0,1.0,Mu,95,T95I + Y144S + Y144ins + Y145N + R346K + E484K + N501Y + P681H + D950N,1,<,40.0,1.0,>,8.0
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,718.0,1.0,Mu,95,T95I + Y144S + Y144ins + Y145N + R346K + E484K + N501Y + P681H + D950N,1,<,40.0,1.0,>,18.0
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,773.0,1.0,Mu,95,T95I + Y144S + Y144ins + Y145N + R346K + E484K + N501Y + P681H + D950N,1,=,106.0,1.0,=,7.3
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,7834.0,1.0,Mu,95,T95I + Y144S + Y144ins + Y145N + R346K + E484K + N501Y + P681H + D950N,1,=,844.0,1.0,=,9.3
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,430.0,1.0,Mu,95,T95I + Y144S + Y144ins + Y145N + R346K + E484K + N501Y + P681H + D950N,1,<,40.0,1.0,>,10.8
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,349.0,1.0,Mu,95,T95I + Y144S + Y144ins + Y145N + R346K + E484K + N501Y + P681H + D950N,1,=,48.0,1.0,=,7.3
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,1762.0,1.0,Mu,95,T95I + Y144S + Y144ins + Y145N + R346K + E484K + N501Y + P681H + D950N,1,=,265.0,1.0,=,6.6
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,834.0,1.0,Mu,95,T95I + Y144S + Y144ins + Y145N + R346K + E484K + N501Y + P681H + D950N,1,=,46.0,1.0,=,18.1
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,2579.0,1.0,Mu,95,T95I + Y144S + Y144ins + Y145N + R346K + E484K + N501Y + P681H + D950N,1,=,260.0,1.0,=,9.9

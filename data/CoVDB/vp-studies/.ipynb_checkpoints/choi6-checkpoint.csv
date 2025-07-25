@@ -1,0 +1,17 @@
+﻿Reference,Reference: DOI,Assay,Section,Pre-vaccine Infection,Vaccine,# Shots,Months,Host,Control,Control: NT50 Cmp,Control: NT50 GeoMean,Control: NT50 GSD,Variant,Variant: Pos,Variant: Mutations,# Results,Potency: NT50 Cmp,Potency: NT50 GeoMean,Potency: NT50 GSD,Fold Reduction: Cmp,Fold Reduction: Median
+Choi21,10.1128/JVI.01313-21,Pseudovirus (VSV),Fig 1A,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1808.0,1.0,Lambda,63,T63I + Δ64-76 + Δ246-252 + D253N + L452Q + E471Q + F490S + T859N,1,=,462.0,1.0,=,3.9
+Choi21,10.1128/JVI.01313-21,Pseudovirus (VSV),Fig 1A,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1260.0,1.0,Lambda,63,T63I + Δ64-76 + Δ246-252 + D253N + L452Q + E471Q + F490S + T859N,1,=,421.0,1.0,=,3.0
+Choi21,10.1128/JVI.01313-21,Pseudovirus (VSV),Fig 1A,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,2651.0,1.0,Lambda,63,T63I + Δ64-76 + Δ246-252 + D253N + L452Q + E471Q + F490S + T859N,1,=,842.0,1.0,=,3.1
+Choi21,10.1128/JVI.01313-21,Pseudovirus (VSV),Fig 1A,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,3242.0,1.0,Lambda,63,T63I + Δ64-76 + Δ246-252 + D253N + L452Q + E471Q + F490S + T859N,1,=,973.0,1.0,=,3.3
+Choi21,10.1128/JVI.01313-21,Pseudovirus (VSV),Fig 1A,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,2270.0,1.0,Lambda,63,T63I + Δ64-76 + Δ246-252 + D253N + L452Q + E471Q + F490S + T859N,1,=,1221.0,1.0,=,1.9
+Choi21,10.1128/JVI.01313-21,Pseudovirus (VSV),Fig 1A,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,2610.0,1.0,Lambda,63,T63I + Δ64-76 + Δ246-252 + D253N + L452Q + E471Q + F490S + T859N,1,=,953.0,1.0,=,2.7
+Choi21,10.1128/JVI.01313-21,Pseudovirus (VSV),Fig 1A,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1215.0,1.0,Lambda,63,T63I + Δ64-76 + Δ246-252 + D253N + L452Q + E471Q + F490S + T859N,1,=,390.0,1.0,=,3.1
+Choi21,10.1128/JVI.01313-21,Pseudovirus (VSV),Fig 1A,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1046.0,1.0,Lambda,63,T63I + Δ64-76 + Δ246-252 + D253N + L452Q + E471Q + F490S + T859N,1,=,267.0,1.0,=,3.9
+Choi21,10.1128/JVI.01313-21,Pseudovirus (VSV),Fig 1A,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1808.0,1.0,Lambda,75,G75V + T76I + Δ246-252 + D253N + L452Q + F490S + T859N,1,=,1062.0,1.0,=,1.7
+Choi21,10.1128/JVI.01313-21,Pseudovirus (VSV),Fig 1A,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1260.0,1.0,Lambda,75,G75V + T76I + Δ246-252 + D253N + L452Q + F490S + T859N,1,=,426.0,1.0,=,3.0
+Choi21,10.1128/JVI.01313-21,Pseudovirus (VSV),Fig 1A,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,2651.0,1.0,Lambda,75,G75V + T76I + Δ246-252 + D253N + L452Q + F490S + T859N,1,=,1030.0,1.0,=,2.6
+Choi21,10.1128/JVI.01313-21,Pseudovirus (VSV),Fig 1A,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,3242.0,1.0,Lambda,75,G75V + T76I + Δ246-252 + D253N + L452Q + F490S + T859N,1,=,1565.0,1.0,=,2.1
+Choi21,10.1128/JVI.01313-21,Pseudovirus (VSV),Fig 1A,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,2270.0,1.0,Lambda,75,G75V + T76I + Δ246-252 + D253N + L452Q + F490S + T859N,1,=,1279.0,1.0,=,1.8
+Choi21,10.1128/JVI.01313-21,Pseudovirus (VSV),Fig 1A,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,2610.0,1.0,Lambda,75,G75V + T76I + Δ246-252 + D253N + L452Q + F490S + T859N,1,=,1333.0,1.0,=,2.0
+Choi21,10.1128/JVI.01313-21,Pseudovirus (VSV),Fig 1A,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1215.0,1.0,Lambda,75,G75V + T76I + Δ246-252 + D253N + L452Q + F490S + T859N,1,=,599.0,1.0,=,2.0
+Choi21,10.1128/JVI.01313-21,Pseudovirus (VSV),Fig 1A,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1046.0,1.0,Lambda,75,G75V + T76I + Δ246-252 + D253N + L452Q + F490S + T859N,1,=,324.0,1.0,=,3.2

@@ -1,0 +1,421 @@
+﻿Reference,Reference: DOI,Assay,Section,Infection (CP),Months,Host,Control,Control: NT50 Cmp,Control: NT50 GeoMean,Control: NT50 GSD,Mutation,Mutation: Pos,# Results,Potency: NT50 Cmp,Potency: NT50 GeoMean,Potency: NT50 GSD,Fold Reduction: Cmp,Fold Reduction: Median,Fold Reduction: IQR25,Fold Reduction: IQR75,Data Availability
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,L5F,5,20,,,,=,1.1,0.8,1.2,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,L8V,8,10,,,,=,1.3,1.1,1.6,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,L8W,8,10,,,,=,0.9,0.8,0.9,✓
+Lu21c,10.1016/j.ebiom.2021.103544,Virus isolate,Fig 2,Wild Type,1m,Human,Alpha,=,80.0,1.0,B.1.1.63 (S12F),12,18,=,89.4,1.1,=,1.0,0.9,1.0,✓
+Schmidt21,10.1038/s41586-021-04005-0,Pseudovirus (VSV),RU27-panel of figure 2e,Wild Type,1m,Human,Wild Type (B),=,4532.5,1.0,S12P,12,1,=,1375.0,1.0,=,3.3,,,✓
+Schmidt21,10.1038/s41586-021-04005-0,Pseudovirus (VSV),RU27-panel of figure 2e,Wild Type,1m,Human,Wild Type (B),=,10649.0,1.0,Q14H,14,1,=,4052.0,1.0,=,2.6,,,✓
+Schmidt21,10.1038/s41586-021-04005-0,Pseudovirus (VSV),RU27-panel of figure 2e,Wild Type,1m,Human,Wild Type (B),=,5261.0,1.0,C15G,15,1,=,1131.0,1.0,=,4.7,,,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,N17Q,17,10,,,,=,0.9,0.8,1.0,✓
+Tada21,10.1128/mBio.00696-21,Pseudovirus (HIV),Fig S3C,Wild Type,1m,Human,Wild Type (B.1),=,177.0,1.3,L18F,18,5,=,220.4,1.4,=,0.8,0.5,1.0,✓
+Wang21b,10.1038/s41586-021-03398-2,Pseudovirus (VSV),Fig. 3b,Wild Type,1m,Human,Wild Type (B.1),,,,L18F,18,20,,,,=,0.9,0.6,1.1,✓
+Li21c,10.1016/j.cell.2021.02.042,Pseudovirus (VSV),Figure 4B,Wild Type,2-6m,Human,Wild Type (B.1),=,1303.0,2.1,L18F,18,18,=,1569.7,1.9,=,0.8,,,✓
+Tada21c,10.1016/j.isci.2021.103341,Pseudovirus (HIV),Figure 1D,Unknown variant,1m,Human,Wild Type (B.1),=,284.0,1.0,Δ19,19,10,=,321.0,1.0,=,0.9,,,
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,H49Y,49,10,,,,=,0.8,0.7,1.1,✓
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,205.0,2.9,H49Y,49,12,=,151.4,2.9,=,1.5,1.1,1.8,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,N61Q,61,10,,,,=,1.3,0.9,1.3,✓
+Nguyen21,10.1093/infdis/jiab563,Pseudovirus,Figure 1G,Wild Type,1m,Human,Wild Type (B),,,,Δ69-70,69,20,,,,=,1.4,,,
+Rees-Spear21,10.1016/j.celrep.2021.108890,Pseudovirus (HIV),Figure 4B,Wild Type,1m,Human,Wild Type (B.1),=,772.3,3.3,Δ69-70,69,31,=,888.1,3.4,=,0.9,0.6,1.4,✓
+Tada21,10.1128/mBio.00696-21,Pseudovirus (HIV),Table 1,Wild Type,1m,Human,Wild Type (B.1),=,112.0,2.0,Δ69-70,69,18,=,125.9,1.8,=,0.9,0.6,1.4,✓
+Wang21b,10.1038/s41586-021-03398-2,Pseudovirus (VSV),Fig. 3b,Wild Type,1m,Human,Wild Type (B.1),,,,Δ69-70,69,20,,,,=,1.1,0.7,1.8,✓
+Kemp21,10.1038/s41586-021-03291-y,Pseudovirus (HIV),Fig 4C; Ext Data Fig 7B; Fig 4D; Ext Data Fig 7B; Fig 4E; Ext Data Fig 7B,Wild Type,2-6m,Human,Wild Type (B.1),=,272.6,1.8,Δ69-70,69,3,=,339.1,1.8,=,0.8,0.7,1.0,✓
+Shen21,10.1016/j.chom.2021.03.002,Pseudovirus (lentivirus),Table S1,Wild Type,2-6m,Human,Wild Type (B.1),=,788.9,4.1,Δ69-70,69,15,=,881.4,4.1,=,0.9,0.8,1.1,✓
+Graham21,10.1016/j.immuni.2021.03.023,Pseudovirus (HIV),"Figure S5, Figure 6",Wild Type,2-6m,Human,Wild Type (B),=,977.7,2.0,Δ69-70,69,2,=,691.2,1.4,=,1.5,1.3,1.8,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,N74K,74,10,,,,=,0.8,0.4,1.0,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,N74Q,74,10,,,,=,0.6,0.5,0.8,✓
+Wang21l,10.1080/22221751.2021.2008775,Pseudovirus (VSV),Figure 3A,Wild Type,1m,Human,Wild Type (B.1),,,,G75V,75,14,,,,=,1.0,1.0,1.8,✓
+Wang21l,10.1080/22221751.2021.2008775,Pseudovirus (VSV),Figure 3A,Wild Type,1m,Human,Wild Type (B.1),,,,T76I,76,14,,,,=,1.0,1.0,1.0,✓
+Tada21,10.1128/mBio.00696-21,Pseudovirus (HIV),Fig S3C,Wild Type,1m,Human,Wild Type (B.1),=,177.0,1.3,D80A,80,5,=,210.6,1.4,=,0.8,0.6,1.1,✓
+Wang21b,10.1038/s41586-021-03398-2,Pseudovirus (VSV),Fig. 3b,Wild Type,1m,Human,Wild Type (B.1),,,,D80A,80,20,,,,=,1.0,0.7,1.6,✓
+Li21c,10.1016/j.cell.2021.02.042,Pseudovirus (VSV),Figure 4B,Wild Type,2-6m,Human,Wild Type (B.1),=,1303.0,2.1,D80A,80,18,=,1141.8,1.9,=,1.1,,,✓
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,1012.6,2.6,T95I,95,15,=,813.2,3.0,=,1.3,1.0,1.5,✓
+Weigang21,10.1038/s41467-021-26602-3,Pseudovirus (VSV),"Figure 5d, Source data",Wild Type,1m,Human,Wild Type (B.1),=,1480.0,1.0,Δ141-146,141,1,=,631.0,1.0,=,2.3,,,✓
+Wang21b,10.1038/s41586-021-03398-2,Pseudovirus (VSV),Fig. 3b,Wild Type,1m,Human,Wild Type (B.1),,,,Δ141-146,141,20,,,,=,1.4,1.0,1.7,✓
+Graham21,10.1016/j.immuni.2021.03.023,Pseudovirus (HIV),"Figure S5, Figure 6",Wild Type,2-6m,Human,Wild Type (B),=,977.7,2.0,Δ141-146,141,2,=,282.3,1.1,=,4.0,3.0,5.0,✓
+Schmidt21,10.1038/s41586-021-04005-0,Pseudovirus (VSV),RU27-panel of figure 2e,Wild Type,1m,Human,Wild Type (B),=,10649.0,1.0,Y145C,145,1,=,4014.0,1.0,=,2.7,,,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,Δ141-146,141,10,,,,=,1.4,1.2,1.6,✓
+Ren22,10.1128/mbio.00099-22,Pseudovirus (lentivirus),Figure 4C,Wild Type,1m,Human,Wild Type (B.1),=,855.6,5.2,Δ141-146,141,9,=,379.4,5.9,=,1.6,1.4,2.3,✓
+Tada21c,10.1016/j.isci.2021.103341,Pseudovirus (HIV),Supplemental Figure 2A,Unknown variant,1m,Human,Wild Type (B.1),=,284.0,1.0,Δ141-146,141,10,=,226.0,1.0,=,1.3,,,
+Schmidt21,10.1038/s41586-021-04005-0,Pseudovirus (VSV),RU27-panel of figure 2e,Wild Type,1m,Human,Wild Type (B),=,12756.0,1.0,K147E,147,1,=,3253.0,1.0,=,3.9,,,✓
+Schmidt21,10.1038/s41586-021-04005-0,Pseudovirus (VSV),RU27-panel of figure 2e,Wild Type,1m,Human,Wild Type (B),=,10566.0,1.0,K147N,147,1,=,3487.0,1.0,=,3.0,,,✓
+Weisblum20,10.7554/elife.61312,Pseudovirus (VSV),Figure 6C,Wild Type,1m,Human,Wild Type (B),=,4381.0,5.4,N148S,148,4,=,1706.4,4.0,=,2.4,2.1,3.2,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,N149H,149,10,,,,=,0.4,0.4,0.5,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,N149Q,149,10,,,,=,0.3,0.3,0.5,✓
+Weisblum20,10.7554/elife.61312,Pseudovirus (VSV),Figure 6C,Wild Type,1m,Human,Wild Type (B),=,4381.0,5.4,K150E,150,4,=,2562.8,2.4,=,2.5,1.8,3.0,✓
+Weisblum20,10.7554/elife.61312,Pseudovirus (VSV),Figure 6C,Wild Type,1m,Human,Wild Type (B),=,4381.0,5.4,K150R,150,4,=,1582.6,4.1,=,2.7,2.4,3.3,✓
+Weisblum20,10.7554/elife.61312,Pseudovirus (VSV),Figure 6C,Wild Type,1m,Human,Wild Type (B),=,4381.0,5.4,S151P,151,4,=,1014.2,3.9,=,4.5,3.9,5.3,✓
+Ren22,10.1128/mbio.00099-22,Pseudovirus (lentivirus),Figure 4A,Wild Type,1m,Human,Wild Type (B.1),=,1497.6,3.5,E154K,154,9,=,1455.7,3.6,=,0.7,0.6,1.5,✓
+Schmidt21,10.1038/s41586-021-04005-0,Pseudovirus (VSV),RU27-panel of figure 2e,Wild Type,1m,Human,Wild Type (B),=,10566.0,1.0,E154K,154,1,=,3952.0,1.0,=,2.7,,,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,N165Q,165,10,,,,=,0.6,0.4,0.6,✓
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,205.0,2.9,D215G,215,12,=,259.3,3.1,=,0.9,0.7,1.1,✓
+Tada21,10.1128/mBio.00696-21,Pseudovirus (HIV),Fig S3C,Wild Type,1m,Human,Wild Type (B.1),=,177.0,1.3,D215G,215,5,=,174.3,1.2,=,1.2,0.8,1.2,✓
+Wang21b,10.1038/s41586-021-03398-2,Pseudovirus (VSV),Fig. 3b,Wild Type,1m,Human,Wild Type (B.1),,,,D215G,215,20,,,,=,2.1,1.5,2.7,✓
+Li21c,10.1016/j.cell.2021.02.042,Pseudovirus (VSV),Figure 4B,Wild Type,2-6m,Human,Wild Type (B.1),=,1303.0,2.1,D215G,215,18,=,1432.7,2.0,=,0.9,,,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,N234Q,234,10,,,,=,1.1,0.7,1.5,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,Q239K,239,10,,,,=,1.0,0.9,1.2,✓
+Li21c,10.1016/j.cell.2021.02.042,Pseudovirus (VSV),Figure 4B,Wild Type,2-6m,Human,Wild Type (B.1),=,1303.0,2.1,L241H,241,18,=,1538.3,2.3,=,0.8,,,✓
+Tada21,10.1128/mBio.00696-21,Pseudovirus (HIV),Fig S3C,Wild Type,1m,Human,Wild Type (B.1),=,177.0,1.3,Δ242-247,241,5,=,193.6,1.3,=,0.9,0.9,0.9,✓
+Wang21f,10.1016/j.immuni.2021.06.003,Pseudovirus (HIV),"Figure 3C, Figure S4",Wild Type,2-6m,Human,Wild Type (B.1),=,772.0,3.0,Δ242-247,241,24,=,394.2,4.9,=,1.5,1.1,1.8,✓
+Wang21b,10.1038/s41586-021-03398-2,Pseudovirus (VSV),Fig. 3b,Wild Type,1m,Human,Wild Type (B.1),,,,Δ242-247,241,20,,,,=,2.0,1.3,2.7,✓
+Cao21b,10.1038/s41422-021-00514-9,Pseudovirus (VSV),Table S3,Wild Type,1m,Human,Wild Type (B.1),=,536.2,1.5,Δ242-247,241,7,=,253.4,1.6,=,2.1,1.9,2.5,✓
+Cao21b,10.1038/s41422-021-00514-9,Pseudovirus (VSV),Table S3,Wild Type,2-6m,Human,Wild Type (B.1),=,686.9,1.3,Δ242-247,241,3,=,326.9,1.2,=,2.1,2.0,2.3,✓
+Li21c,10.1016/j.cell.2021.02.042,Pseudovirus (VSV),Figure 4B,Wild Type,2-6m,Human,Wild Type (B.1),=,1303.0,2.1,Δ242-247,241,18,=,993.6,2.8,=,1.3,,,✓
+Schmidt21,10.1038/s41586-021-04005-0,Pseudovirus (VSV),RU27-panel of figure 2e,Wild Type,1m,Human,Wild Type (B),=,5261.0,1.0,A243D,243,1,=,652.9,1.0,=,8.1,,,✓
+Schmidt21,10.1038/s41586-021-04005-0,Pseudovirus (VSV),RU27-panel of figure 2e,Wild Type,1m,Human,Wild Type (B),=,5261.0,1.0,L244P,244,1,=,1261.0,1.0,=,4.2,,,✓
+Tada21,10.1128/mBio.00696-21,Pseudovirus (HIV),Fig S3C,Wild Type,1m,Human,Wild Type (B.1),=,177.0,1.3,R246I,246,5,=,189.1,1.5,=,0.8,0.8,1.4,✓
+Wang21b,10.1038/s41586-021-03398-2,Pseudovirus (VSV),Fig. 3b,Wild Type,1m,Human,Wild Type (B.1),,,,R246I,246,20,,,,=,1.1,0.9,1.8,✓
+Li21c,10.1016/j.cell.2021.02.042,Pseudovirus (VSV),Figure 4B,Wild Type,2-6m,Human,Wild Type (B.1),=,1303.0,2.1,R246I,246,18,=,1285.0,2.4,=,1.0,,,✓
+Supasa21,10.1016/j.cell.2021.02.033,Virus isolate,Figure 6A,Alpha,1m,Human,Alpha,=,781.1,8.7,B (S247R),247,11,=,799.0,12.9,=,1.0,0.6,1.4,✓
+Schmidt21,10.1038/s41586-021-04005-0,Pseudovirus (VSV),RU27-panel of figure 2e,Wild Type,1m,Human,Wild Type (B),=,5261.0,1.0,Y248H,248,1,=,1460.0,1.0,=,3.6,,,✓
+Schmidt21,10.1038/s41586-021-04005-0,Pseudovirus (VSV),RU27-panel of figure 2e,Wild Type,1m,Human,Wild Type (B),=,945.2,1.0,W258R,258,1,<,46.6,1.0,>,20.3,,,✓
+Schmidt21,10.1038/s41586-021-04005-0,Pseudovirus (VSV),RU27-panel of figure 2e,Wild Type,1m,Human,Wild Type (B),=,10691.0,1.0,A260T,260,1,=,4902.0,1.0,=,2.2,,,✓
+Schmidt21,10.1038/s41586-021-04005-0,Pseudovirus (VSV),RU27-panel of figure 2e,Wild Type,1m,Human,Wild Type (B),=,10691.0,1.0,A260V,260,1,=,7699.0,1.0,=,1.4,,,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,N282Q,282,10,,,,=,0.7,0.5,0.8,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,Q321L,321,10,,,,=,1.9,1.8,2.3,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,N331Q,331,10,,,,=,0.5,0.3,0.6,✓
+Nguyen21,10.1093/infdis/jiab563,Pseudovirus,Figure 1G,Wild Type,1m,Human,Wild Type (B),,,,L335V,335,20,,,,=,1.2,,,
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,P337S,337,23,=,63.3,1.9,=,1.0,,,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,F338L,338,10,,,,=,0.6,0.5,0.6,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,F338L,338,24,=,49.9,2.1,=,1.2,,,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,V341I,341,24,=,70.5,2.0,=,0.9,,,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,V341I,341,10,,,,=,1.2,1.1,1.6,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,F342L,342,23,=,44.4,2.2,=,1.4,,,✓
+Liu21,10.1016/j.chom.2021.01.014,Pseudovirus (VSV),"Figure 4AB, Figure S5A",Wild Type,1m,Human,Wild Type (B),=,316.2,1.9,T345A,345,3,=,96.3,5.4,=,1.6,1.6,1.6,✓
+Liu21,10.1016/j.chom.2021.01.014,Pseudovirus (VSV),"Figure 4AB, Figure S5A",Wild Type,1m,Human,Wild Type (B),=,316.2,1.9,T345N,345,3,=,96.3,5.4,=,1.6,1.6,1.6,✓
+Liu21,10.1016/j.chom.2021.01.014,Pseudovirus (VSV),"Figure 4AB, Figure S5A",Wild Type,1m,Human,Wild Type (B),=,316.2,1.9,T345S,345,3,=,85.8,6.3,=,1.6,1.6,2.4,✓
+Liu21,10.1016/j.chom.2021.01.014,Pseudovirus (VSV),"Figure 4AB, Figure S5A",Wild Type,1m,Human,Wild Type (B),=,316.2,1.9,R346G,346,3,=,1165.7,2.8,=,0.4,0.3,0.4,✓
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,1012.6,2.6,R346K,346,15,=,1031.4,2.6,=,1.0,0.9,1.1,✓
+Weisblum20,10.7554/elife.61312,Pseudovirus (VSV),Figure 6C,Wild Type,1m,Human,Wild Type (B),=,4381.0,5.4,R346S,346,4,=,2181.5,4.8,=,2.0,1.8,2.3,✓
+Yi21,10.1186/s13073-021-00985-w,Pseudovirus (HIV),Figure 6a,Wild Type,2-6m,Human,Wild Type (B.1),=,2931.1,2.0,R346S,346,9,=,1585.9,2.2,=,1.8,1.7,2.0,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,A348S,348,24,=,50.8,2.7,=,1.2,,,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,A348T,348,10,,,,=,0.9,0.7,1.0,✓
+Liu21,10.1016/j.chom.2021.01.014,Pseudovirus (VSV),"Figure 4AB, Figure S5A",Wild Type,1m,Human,Wild Type (B),=,316.2,1.9,A352D,352,3,=,2154.2,4.3,=,0.3,0.1,0.3,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,A352S,352,25,=,46.4,2.0,=,1.3,,,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,N354D,354,10,,,,=,0.4,0.3,0.6,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,N354D,354,23,=,51.8,2.2,=,1.2,,,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,N354K,354,10,,,,=,1.1,1.1,1.4,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,S359N,359,10,,,,=,0.8,0.7,0.9,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,S359N,359,24,=,49.9,2.0,=,1.2,,,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,V367F,367,10,,,,=,0.6,0.5,0.6,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,V367F,367,25,=,64.5,2.1,=,1.0,,,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,N370S,370,23,=,58.6,2.1,=,1.1,,,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,A372S,372,25,=,31.2,3.4,=,1.6,,,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,A372T,372,23,=,50.8,1.6,=,1.3,,,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,F377L,377,24,=,49.8,2.3,=,1.2,,,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,K378N,378,25,=,57.2,2.4,=,1.1,,,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,K378R,378,10,,,,=,1.0,0.7,1.1,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,K378R,378,24,=,66.8,1.8,=,1.0,,,✓
+Rees-Spear21,10.1016/j.celrep.2021.108890,Pseudovirus (HIV),Figure 2B,Wild Type,1m,Human,Wild Type (B),=,1107.2,2.9,P384A,384,36,=,1356.4,2.8,=,0.9,0.6,1.1,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,P384L,384,10,,,,=,1.3,1.1,1.5,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,P384L,384,23,=,45.4,2.8,=,1.3,,,✓
+Greaney21,10.1016/j.chom.2021.02.003,Pseudovirus (HIV),Figure 5; git.io/JCEvr,Wild Type,1m,Human,Wild Type (B.1),=,3971.5,3.4,P384L,384,2,=,3823.5,3.5,=,1.1,1.0,1.1,✓
+Greaney21,10.1016/j.chom.2021.02.003,Pseudovirus (HIV),Figure 5; git.io/JCEvr,Wild Type,2-6m,Human,Wild Type (B.1),=,1140.7,1.6,P384L,384,2,=,968.8,1.3,=,1.2,1.1,1.4,✓
+Greaney21c,10.1126/scitranslmed.abi9915,Pseudovirus (HIV),Data file S3,Wild Type,2-6m,Human,Wild Type (B.1),=,786.7,1.7,P384R,384,6,=,682.2,1.6,=,1.1,1.1,1.3,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,T385A,385,24,=,49.4,2.2,=,1.2,,,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,T393P,393,23,=,47.3,2.2,=,1.3,,,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,V395I,395,24,=,47.4,2.7,=,1.2,,,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,E406Q,406,25,=,60.2,1.8,=,1.1,,,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,R408I,408,10,,,,=,1.3,1.0,1.6,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,R408I,408,23,=,57.1,1.7,=,1.1,,,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,Q409E,409,10,,,,=,0.6,0.6,0.8,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,Q414E,414,10,,,,=,1.6,1.3,1.7,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,Q414E,414,21,=,53.8,2.3,=,1.1,,,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,Q414R,414,25,=,56.4,2.3,=,1.1,,,✓
+Greaney21c,10.1126/scitranslmed.abi9915,Pseudovirus (HIV),Data file S3,Wild Type,2-6m,Human,Wild Type (B.1),=,786.7,1.7,K417N,417,6,=,662.0,1.8,=,1.2,0.9,1.5,✓
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Figure 1B,Wild Type,1m,Human,Wild Type (B.1),=,536.3,1.9,K417N,417,6,=,513.3,1.9,=,1.1,0.8,1.4,✓
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Figure 1C,L452R variants,1m,Human,Wild Type (B.1),=,243.7,1.3,K417N,417,4,=,307.6,1.3,=,1.0,0.7,1.1,✓
+Tada21,10.1128/mBio.00696-21,Pseudovirus (HIV),Fig S3C,Wild Type,1m,Human,Wild Type (B.1),=,177.0,1.3,K417N,417,5,=,166.9,1.6,=,1.2,0.7,1.3,✓
+Tada21e,10.3389/fimmu.2022.797589,Pseudovirus (HIV),Supplementary Figure S1A,Wild Type,2-6m,Human,Wild Type (B.1),=,296.3,1.9,K417N,417,8,=,215.4,1.6,=,1.7,1.3,2.0,✓
+Wang21f,10.1016/j.immuni.2021.06.003,Pseudovirus (HIV),"Figure 3C, Figure S4",Wild Type,2-6m,Human,Wild Type (B.1),=,772.0,3.0,K417N,417,24,=,1492.2,2.8,=,0.5,0.4,0.6,✓
+Wang21b,10.1038/s41586-021-03398-2,Pseudovirus (VSV),Fig. 3b,Wild Type,1m,Human,Wild Type (B.1),,,,K417N,417,20,,,,=,0.9,0.7,1.2,✓
+Greaney22b,10.1371/journal.ppat.1010248,Pseudovirus (lentivirus),"Fig S5, Supplementary File 5",Wild Type,2-6m,Human,Wild Type (B),=,786.7,1.7,K417N,417,6,=,662.0,1.8,=,1.2,0.9,1.5,✓
+Greaney22b,10.1371/journal.ppat.1010248,Pseudovirus (lentivirus),"Fig S5, Supplementary File 5",Wild Type,1m,Human,Wild Type (B),=,2299.6,3.4,K417N,417,4,=,2212.1,3.4,=,1.1,0.8,1.2,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,K417N,417,25,=,36.2,2.8,=,1.6,,,✓
+Zhang21c,10.1038/s42003-021-02728-4,Pseudovirus (VSV),Figure 6D,Beta,2-6m,Human,Beta,,,,K417N,417,3,,,,=,0.9,,,
+Zhang21c,10.1038/s42003-021-02728-4,Pseudovirus (VSV),Figure 6C,Alpha,2-6m,Human,Alpha,,,,K417N,417,4,,,,=,1.3,,,
+Cao21b,10.1038/s41422-021-00514-9,Pseudovirus (VSV),Table S3,Wild Type,1m,Human,Wild Type (B.1),=,536.2,1.5,K417N,417,7,=,555.9,1.4,=,1.0,0.9,1.1,✓
+Cao21b,10.1038/s41422-021-00514-9,Pseudovirus (VSV),Table S3,Wild Type,2-6m,Human,Wild Type (B.1),=,686.9,1.3,K417N,417,3,=,771.7,1.3,=,0.9,0.9,0.9,✓
+Chen21,10.1038/s41591-021-01294-w,SARS-CoV-2 recombinant,"Fig 2b, Source Data Fig 2b",Wild Type,1m,Human,Wild Type (B.1),=,173.9,2.7,K417N,417,19,=,260.7,2.7,=,0.6,0.4,0.9,✓
+Greaney22,10.1371/journal.ppat.1010592,Pseudovirus (lentivirus),S1 Data,Wild Type,1m,Human,Wild Type (B.1),=,2299.2,3.4,K417N,417,4,=,2212.1,3.4,=,1.1,0.8,1.2,✓
+Greaney22,10.1371/journal.ppat.1010592,Pseudovirus (lentivirus),S1 Data,Wild Type,2-6m,Human,Wild Type (B.1),=,786.6,1.7,K417N,417,6,=,662.0,1.8,=,1.2,0.9,1.5,✓
+Yi21,10.1186/s13073-021-00985-w,Pseudovirus (HIV),Figure 6a,Wild Type,2-6m,Human,Wild Type (B.1),=,2931.1,2.0,K417N,417,9,=,1599.4,2.0,=,1.9,1.6,2.0,✓
+Li21c,10.1016/j.cell.2021.02.042,Pseudovirus (VSV),Figure 4B; Figure 5A,Wild Type,2-6m,Human,Wild Type (B.1),=,1303.0,2.1,K417N,417,38,=,2968.5,2.4,=,0.8,0.5,1.0,✓
+Li21c,10.1016/j.cell.2021.02.042,Pseudovirus (VSV),Figure 5A,Wild Type,≥6m,Human,Wild Type (B.1),,,,K417N,417,10,,,,=,1.0,1.0,1.0,✓
+Zhang21c,10.1038/s42003-021-02728-4,Pseudovirus (VSV),Figure 6B,Wild Type,2-6m,Human,Wild Type (B.1),,,,K417N,417,5,,,,=,0.6,,,
+Wang21f,10.1016/j.immuni.2021.06.003,Pseudovirus (HIV),"Figure 3C, Figure S4",Wild Type,2-6m,Human,Wild Type (B.1),=,772.0,3.0,K417T,417,24,=,1094.4,2.7,=,0.7,0.6,0.8,✓
+Zhang21c,10.1038/s42003-021-02728-4,Pseudovirus (VSV),Figure 6B,Wild Type,2-6m,Human,Wild Type (B.1),,,,K417T,417,5,,,,=,0.3,,,
+Zhang21c,10.1038/s42003-021-02728-4,Pseudovirus (VSV),Figure 6D,Beta,2-6m,Human,Beta,,,,K417T,417,3,,,,=,0.9,,,
+Zhang21c,10.1038/s42003-021-02728-4,Pseudovirus (VSV),Figure 6C,Alpha,2-6m,Human,Alpha,,,,K417T,417,4,,,,=,0.8,,,
+Rees-Spear21,10.1016/j.celrep.2021.108890,Pseudovirus (HIV),Figure 2B,Wild Type,1m,Human,Wild Type (B),=,1107.2,2.9,K417V,417,36,=,1904.4,2.8,=,0.6,0.5,0.9,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,A435S,435,20,,,,=,1.1,1.0,1.2,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,A435S,435,24,=,59.1,2.5,=,1.0,,,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,W436R,436,25,=,49.2,2.5,=,1.2,,,✓
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,205.0,2.9,N439K,439,12,=,57.1,3.5,=,2.7,1.6,3.8,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,N439K,439,10,,,,=,1.6,1.3,1.9,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,N439K,439,25,=,45.3,2.9,=,1.3,,,✓
+Shen21,10.1016/j.chom.2021.03.002,Pseudovirus (lentivirus),Table S1,Wild Type,2-6m,Human,Wild Type (B.1),=,788.9,4.1,N439K,439,15,=,500.3,4.1,=,1.5,1.3,1.9,✓
+Weisblum20,10.7554/elife.61312,Pseudovirus (VSV),Figure 6C,Wild Type,1m,Human,Wild Type (B),=,4381.0,5.4,N440K,440,4,=,2720.1,5.6,=,1.6,1.4,2.0,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,N440K,440,23,=,54.4,2.4,=,1.1,,,✓
+Tada21c,10.1016/j.isci.2021.103341,Pseudovirus (HIV),Figure 1D,Unknown variant,1m,Human,Wild Type (B.1),=,284.0,1.0,N440K,440,10,=,231.0,1.0,=,1.2,,,
+Liu21,10.1016/j.chom.2021.01.014,Pseudovirus (VSV),"Figure 4AB, Figure S5A",Wild Type,1m,Human,Wild Type (B),=,316.2,1.9,L441R,441,3,=,85.8,6.3,=,1.6,1.6,2.4,✓
+Liu21,10.1016/j.chom.2021.01.014,Pseudovirus (VSV),"Figure 4AB, Figure S5A",Wild Type,1m,Human,Wild Type (B),=,316.2,1.9,K444E,444,3,<,40.0,7.9,>,3.2,2.1,7.9,✓
+Liu21,10.1016/j.chom.2021.01.014,Pseudovirus (VSV),"Figure 4AB, Figure S5A",Wild Type,1m,Human,Wild Type (B),=,316.2,1.9,K444N,444,3,=,1359.1,3.4,=,0.4,0.3,0.4,✓
+Weisblum20,10.7554/elife.61312,Pseudovirus (VSV),Figure 6C,Wild Type,1m,Human,Wild Type (B),=,4381.0,5.4,K444N,444,4,=,3501.9,3.2,=,0.9,0.7,5.5,✓
+Schmidt21,10.1038/s41586-021-04005-0,Pseudovirus (VSV),RU27-panel of figure 2e,Wild Type,1m,Human,Wild Type (B),=,25292.5,1.0,K444T,444,1,=,7234.0,1.0,=,3.5,,,✓
+Weisblum20,10.7554/elife.61312,Pseudovirus (VSV),Figure 6C,Wild Type,1m,Human,Wild Type (B),=,4381.0,5.4,K444T,444,4,=,1476.5,3.7,=,1.8,1.4,9.8,✓
+Weisblum20,10.7554/elife.61312,Pseudovirus (VSV),Figure 6C,Wild Type,1m,Human,Wild Type (B),=,4381.0,5.4,V445E,445,4,=,1132.2,5.1,=,3.0,2.6,5.4,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,V445F,445,23,=,53.0,2.4,=,1.2,,,✓
+Weisblum20,10.7554/elife.61312,Pseudovirus (VSV),Figure 6C,Wild Type,1m,Human,Wild Type (B),=,4381.0,5.4,V445G,445,4,=,1659.6,3.5,=,1.6,1.3,9.9,✓
+Weisblum20,10.7554/elife.61312,Pseudovirus (VSV),Figure 6C,Wild Type,1m,Human,Wild Type (B),=,4381.0,5.4,V445L,445,4,=,1304.8,4.9,=,2.3,2.0,5.2,✓
+Schmidt21,10.1038/s41586-021-04005-0,Pseudovirus (VSV),RU27-panel of figure 2e,Wild Type,1m,Human,Wild Type (B),=,25292.5,1.0,V445M,445,1,=,642.4,1.0,=,39.4,,,✓
+Liu21,10.1016/j.chom.2021.01.014,Pseudovirus (VSV),"Figure 4AB, Figure S5A",Wild Type,1m,Human,Wild Type (B),=,316.2,1.9,G446D,446,3,=,85.8,6.3,=,1.6,1.6,2.4,✓
+Schmidt21,10.1038/s41586-021-04005-0,Pseudovirus (VSV),RU27-panel of figure 2e,Wild Type,1m,Human,Wild Type (B),=,14048.0,1.0,G446R,446,1,=,916.6,1.0,=,15.3,,,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,G446S,446,25,=,55.5,2.6,=,1.1,,,✓
+Greaney22b,10.1371/journal.ppat.1010248,Pseudovirus (lentivirus),"Fig S5, Supplementary File 5",Wild Type,2-6m,Human,Wild Type (B),=,786.7,1.7,G446V,446,6,=,489.2,2.0,=,1.4,1.2,2.1,✓
+Greaney22b,10.1371/journal.ppat.1010248,Pseudovirus (lentivirus),"Fig S5, Supplementary File 5",Wild Type,1m,Human,Wild Type (B),=,2299.6,3.4,G446V,446,4,=,1604.1,12.7,=,1.0,0.6,4.2,✓
+Liu21,10.1016/j.chom.2021.01.014,Pseudovirus (VSV),"Figure 4AB, Figure S5A",Wild Type,1m,Human,Wild Type (B),=,316.2,1.9,G446V,446,3,=,54.2,20.9,=,3.2,1.7,7.9,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,G446V,446,10,,,,=,1.6,1.6,1.7,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,G446V,446,24,=,30.5,3.1,=,1.7,,,✓
+Greaney21c,10.1126/scitranslmed.abi9915,Pseudovirus (HIV),Data file S3,Wild Type,2-6m,Human,Wild Type (B.1),=,786.7,1.7,G446V,446,6,=,489.2,2.0,=,1.4,1.2,2.1,✓
+Greaney21,10.1016/j.chom.2021.02.003,Pseudovirus (HIV),Figure 5; git.io/JCEvr,Wild Type,1m,Human,Wild Type (B.1),=,3926.4,10.5,G446V,446,2,=,334.2,3.8,=,18.4,11.3,25.4,✓
+Greaney21,10.1016/j.chom.2021.02.003,Pseudovirus (HIV),Figure 5; git.io/JCEvr,Wild Type,2-6m,Human,Wild Type (B.1),=,566.3,1.1,G446V,446,2,=,228.1,1.1,=,2.5,2.5,2.5,✓
+Liu21,10.1016/j.chom.2021.01.014,Pseudovirus (VSV),"Figure 4AB, Figure S5A",Wild Type,1m,Human,Wild Type (B),=,316.2,1.9,N450D,450,3,=,85.8,6.3,=,1.6,1.6,2.4,✓
+Schmidt21,10.1038/s41586-021-04005-0,Pseudovirus (VSV),RU27-panel of figure 2e,Wild Type,1m,Human,Wild Type (B),=,25292.5,1.0,N450D,450,1,=,5187.0,1.0,=,4.9,,,✓
+Liu21,10.1016/j.chom.2021.01.014,Pseudovirus (VSV),"Figure 4AB, Figure S5A",Wild Type,1m,Human,Wild Type (B),=,316.2,1.9,N450K,450,3,=,1994.7,3.9,=,0.2,0.2,0.3,✓
+Yi21,10.1186/s13073-021-00985-w,Pseudovirus (HIV),Figure 6a,Wild Type,2-6m,Human,Wild Type (B.1),=,2931.1,2.0,N450K,450,9,=,1784.5,2.0,=,1.5,1.5,1.8,✓
+Liu21,10.1016/j.chom.2021.01.014,Pseudovirus (VSV),"Figure 4AB, Figure S5A; Figure 4C, Figure 5B",Wild Type,1m,Human,Wild Type (B),=,392.5,5.3,N450Y,450,17,=,573.5,8.5,=,1.0,0.3,1.6,✓
+Rees-Spear21,10.1016/j.celrep.2021.108890,Pseudovirus (HIV),Figure 2B,Wild Type,1m,Human,Wild Type (B),=,1107.2,2.9,L452K,452,36,=,1672.4,3.1,=,0.6,0.4,0.9,✓
+Tada21d,10.1101/2021.07.02.450959,Pseudovirus (HIV),Figure 1A,Unknown variant,1m,Human,Wild Type (B.1),=,296.0,1.9,L452Q,452,8,=,72.9,1.5,=,4.3,2.5,4.9,✓
+Tada21e,10.3389/fimmu.2022.797589,Pseudovirus (HIV),Supplementary Figure S1A,Wild Type,2-6m,Human,Wild Type (B.1),=,296.3,1.9,L452Q,452,8,=,72.5,1.5,=,4.3,2.5,4.9,✓
+Wang21l,10.1080/22221751.2021.2008775,Pseudovirus (VSV),Figure 3A,Wild Type,1m,Human,Wild Type (B.1),,,,L452Q,452,14,,,,=,1.0,1.0,2.0,✓
+Greaney22b,10.1371/journal.ppat.1010248,Pseudovirus (lentivirus),"Fig S5, Supplementary File 5",Wild Type,2-6m,Human,Wild Type (B),=,786.7,1.7,L452R,452,6,=,334.4,1.8,=,2.1,1.9,2.4,✓
+Liu21,10.1016/j.chom.2021.01.014,Pseudovirus (VSV),"Figure 4AB, Figure S5A",Wild Type,1m,Human,Wild Type (B),=,316.2,1.9,L452R,452,3,<,40.0,4.6,>,3.2,3.2,7.9,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,L452R,452,10,,,,=,1.1,1.0,1.4,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,L452R,452,25,=,58.2,1.8,=,1.1,,,✓
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,292.9,3.1,L452R,452,16,=,75.3,5.3,=,2.7,2.2,3.2,✓
+Greaney21c,10.1126/scitranslmed.abi9915,Pseudovirus (HIV),Data file S3,Wild Type,2-6m,Human,Wild Type (B.1),=,871.1,1.5,L452R,452,6,=,334.4,1.8,=,2.2,1.9,3.8,✓
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Figure 1B,Wild Type,1m,Human,Wild Type (B.1),=,536.3,1.9,L452R,452,6,=,415.2,2.1,=,1.4,1.1,1.5,✓
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Figure 1C,L452R variants,1m,Human,Wild Type (B.1),=,243.7,1.3,L452R,452,4,=,297.7,1.2,=,0.8,0.6,1.1,✓
+Ren22,10.1128/mbio.00099-22,Pseudovirus (lentivirus),Figure 4A,Wild Type,1m,Human,Wild Type (B.1),=,1497.6,3.5,L452R,452,9,=,1010.2,3.1,=,1.0,0.7,3.2,✓
+Tada21c,10.1016/j.isci.2021.103341,Pseudovirus (HIV),Supplemental Figure 2A,Unknown variant,1m,Human,Wild Type (B.1),=,284.0,1.0,L452R,452,10,=,128.0,1.0,=,2.2,,,
+Tada21e,10.3389/fimmu.2022.797589,Pseudovirus (HIV),Supplementary Figure S1A,Wild Type,2-6m,Human,Wild Type (B.1),=,296.3,1.9,L452R,452,8,=,65.5,1.6,=,4.3,2.9,6.9,✓
+Zhang21c,10.1038/s42003-021-02728-4,Pseudovirus (VSV),Figure 6D,Beta,2-6m,Human,Beta,,,,L452R,452,3,,,,=,1.0,,,
+Zhang21c,10.1038/s42003-021-02728-4,Pseudovirus (VSV),Figure 6C,Alpha,2-6m,Human,Alpha,,,,L452R,452,4,,,,=,1.7,,,
+Yi21,10.1186/s13073-021-00985-w,Pseudovirus (HIV),Figure 6a,Wild Type,2-6m,Human,Wild Type (B.1),=,2931.1,2.0,L452R,452,9,=,1331.4,1.7,=,2.3,1.7,2.5,✓
+Zhang21c,10.1038/s42003-021-02728-4,Pseudovirus (VSV),Figure 6B,Wild Type,2-6m,Human,Wild Type (B.1),,,,L452R,452,5,,,,=,0.7,,,
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,Y453F,453,23,=,50.7,2.3,=,1.2,,,✓
+Zhang21c,10.1038/s42003-021-02728-4,Pseudovirus (VSV),Figure 6D,Beta,2-6m,Human,Beta,,,,Y453F,453,3,,,,=,1.3,,,
+Hoffmann21b,10.1016/j.celrep.2021.109017,Pseudovirus (VSV),Figure 3A,Wild Type,1m,Human,Wild Type (B.1),=,695.6,3.8,Y453F,453,14,=,301.3,4.6,=,1.8,1.3,3.1,✓
+Zhang21c,10.1038/s42003-021-02728-4,Pseudovirus (VSV),Figure 6B,Wild Type,2-6m,Human,Wild Type (B.1),,,,Y453F,453,5,,,,=,1.1,,,
+Zhang21c,10.1038/s42003-021-02728-4,Pseudovirus (VSV),Figure 6C,Alpha,2-6m,Human,Alpha,,,,Y453F,453,4,,,,=,2.1,,,
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,L455F,455,21,=,83.8,1.9,=,0.8,,,✓
+Greaney21c,10.1126/scitranslmed.abi9915,Pseudovirus (HIV),Data file S3,Wild Type,2-6m,Human,Wild Type (B.1),=,871.1,1.5,F456A,456,6,=,495.0,1.8,=,1.9,1.5,2.2,✓
+Greaney21,10.1016/j.chom.2021.02.003,Pseudovirus (HIV),Figure 5; git.io/JCEvr,Wild Type,2-6m,Human,Wild Type (B.1),=,346.0,1.0,F456A,456,1,=,331.0,1.0,=,1.0,,,✓
+Greaney21,10.1016/j.chom.2021.02.003,Pseudovirus (HIV),Figure 5; git.io/JCEvr,Wild Type,1m,Human,Wild Type (B.1),=,2220.2,3.4,F456A,456,2,=,3311.1,2.6,=,0.7,0.6,0.8,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,F456E,456,24,=,10.3,3.7,=,3.4,,,✓
+Greaney21,10.1016/j.chom.2021.02.003,Pseudovirus (HIV),Figure 5; git.io/JCEvr,Wild Type,1m,Human,Wild Type (B.1),=,3859.8,2.3,F456K,456,2,=,3800.4,3.3,=,1.1,0.9,1.3,✓
+Greaney21,10.1016/j.chom.2021.02.003,Pseudovirus (HIV),Figure 5; git.io/JCEvr,Wild Type,2-6m,Human,Wild Type (B.1),=,888.7,2.0,F456K,456,2,=,1827.6,1.6,=,0.5,0.5,0.6,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,F456L,456,25,=,70.8,2.0,=,0.9,,,✓
+Greaney21,10.1016/j.chom.2021.02.003,Pseudovirus (HIV),Figure 5; git.io/JCEvr,Wild Type,2-6m,Human,Wild Type (B.1),=,332.7,1.0,F456V,456,2,=,475.2,1.1,=,0.7,0.7,0.7,✓
+Greaney21,10.1016/j.chom.2021.02.003,Pseudovirus (HIV),Figure 5; git.io/JCEvr,Wild Type,1m,Human,Wild Type (B.1),=,661.0,1.0,F456V,456,1,=,787.0,1.0,=,0.8,,,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,K458N,458,10,,,,=,1.4,1.3,1.6,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,K458R,458,20,,,,=,1.1,0.9,1.3,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,K458R,458,25,=,64.8,1.8,=,1.0,,,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,I468F,468,10,,,,=,0.5,0.4,0.5,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,I468T,468,10,,,,=,0.6,0.5,0.8,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,E471Q,471,24,=,42.5,2.7,=,1.4,,,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,I472V,472,20,,,,=,1.6,1.3,1.7,✓
+Ding21,10.3389/fimmu.2021.693775,Pseudovirus (HIV),Figure 5B,Wild Type,2-6m,Human,Wild Type (B),=,579.4,1.0,A475V,475,5,=,341.5,1.0,=,1.7,,,
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,A475V,475,10,,,,=,2.1,1.9,2.5,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,A475V,475,25,=,54.1,2.3,=,1.1,,,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,G476S,476,10,,,,=,1.3,1.0,1.4,✓
+Liu21,10.1016/j.chom.2021.01.014,Pseudovirus (VSV),"Figure 4AB, Figure S5A",Wild Type,1m,Human,Wild Type (B),=,316.2,1.9,S477G,477,3,=,50.1,4.3,=,3.2,3.2,3.6,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,S477I,477,25,=,53.8,2.1,=,1.1,,,✓
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,205.0,2.9,S477N,477,12,=,109.4,6.0,=,1.8,1.0,2.4,✓
+Liu21,10.1016/j.chom.2021.01.014,Pseudovirus (VSV),"Figure 4AB, Figure S5A; Figure 4C, Figure 5B",Wild Type,1m,Human,Wild Type (B),=,392.5,5.3,S477N,477,17,=,167.3,4.0,=,1.6,1.0,7.9,✓
+Nguyen21,10.1093/infdis/jiab563,Pseudovirus,Figure 1G,Wild Type,1m,Human,Wild Type (B),,,,S477N,477,20,,,,=,1.3,,,
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,S477N,477,25,=,60.1,1.7,=,1.1,,,✓
+Tea21,10.1371/journal.pmed.1003656,Virus isolate,Figure 5H,Wild Type,2-6m,Human,Wild Type (B.1.319),=,214.0,2.9,S477N,477,31,=,54.2,6.6,=,2.6,,,✓
+Tea21,10.1371/journal.pmed.1003656,Virus isolate,Figure 5H,D.2,1m,Human,Wild Type (B.1.319),=,128.8,2.1,S477N,477,16,=,103.7,2.8,=,1.2,,,✓
+Lu21c,10.1016/j.ebiom.2021.103544,Virus isolate,Fig 2,Wild Type,1m,Human,Alpha,=,80.0,1.0,S477N,477,9,=,90.0,1.0,=,0.9,,,
+Zhang21c,10.1038/s42003-021-02728-4,Pseudovirus (VSV),Figure 6C,Alpha,2-6m,Human,Alpha,,,,S477N,477,4,,,,=,1.9,,,
+Tada21,10.1128/mBio.00696-21,Pseudovirus (HIV),Table 1,Wild Type,1m,Human,Wild Type (B.1),=,112.0,2.0,S477N,477,18,=,110.6,1.4,=,1.4,0.9,1.5,✓
+Yi21,10.1186/s13073-021-00985-w,Pseudovirus (HIV),Figure 6a,Wild Type,2-6m,Human,Wild Type (B.1),=,2931.1,2.0,S477N,477,9,=,2711.7,2.2,=,1.1,0.9,1.2,✓
+Zhang21c,10.1038/s42003-021-02728-4,Pseudovirus (VSV),Figure 6B,Wild Type,2-6m,Human,Wild Type (B.1),,,,S477N,477,5,,,,=,1.0,,,
+Zhang21c,10.1038/s42003-021-02728-4,Pseudovirus (VSV),Figure 6D,Beta,2-6m,Human,Beta,,,,BS477N,477,3,,,,=,2.2,,,
+Liu21,10.1016/j.chom.2021.01.014,Pseudovirus (VSV),"Figure 4AB, Figure S5A",Wild Type,1m,Human,Wild Type (B),=,316.2,1.9,S477R,477,3,=,1467.5,3.4,=,0.3,0.2,0.3,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,S477R,477,25,=,46.3,2.8,=,1.3,,,✓
+Liu21,10.1016/j.chom.2021.01.014,Pseudovirus (VSV),"Figure 4AB, Figure S5A",Wild Type,1m,Human,Wild Type (B),=,316.2,1.9,T478I,478,3,=,85.8,6.3,=,1.6,1.6,2.4,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,T478I,478,10,,,,=,1.6,1.3,1.8,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,T478I,478,24,=,60.7,1.6,=,1.1,,,✓
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Figure 1B,Wild Type,1m,Human,Wild Type (B.1),=,536.3,1.9,T478K,478,6,=,366.2,2.1,=,1.4,1.3,1.5,✓
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Figure 1C,L452R variants,1m,Human,Wild Type (B.1),=,243.7,1.3,T478K,478,4,=,171.0,1.3,=,1.4,1.2,1.6,✓
+Ren22,10.1128/mbio.00099-22,Pseudovirus (lentivirus),Figure 4B,Wild Type,1m,Human,Wild Type (B.1),=,1732.7,3.2,T478K,478,10,=,677.9,4.0,=,2.9,1.5,4.7,✓
+Tada21c,10.1016/j.isci.2021.103341,Pseudovirus (HIV),Supplemental Figure 2A,Unknown variant,1m,Human,Wild Type (B.1),=,284.0,1.0,T478K,478,10,=,204.0,1.0,=,1.4,,,
+Tada21e,10.3389/fimmu.2022.797589,Pseudovirus (HIV),Supplementary Figure S1A,Wild Type,2-6m,Human,Wild Type (B.1),=,296.3,1.9,T478K,478,8,=,190.9,1.6,=,1.8,1.1,2.6,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,N481D,481,24,=,64.0,1.6,=,1.0,,,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,V483A,483,10,,,,=,0.9,0.8,1.1,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,V483A,483,24,=,52.7,2.3,=,1.2,,,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,V483I,483,10,,,,=,1.5,1.2,1.7,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,V483I,483,25,=,49.4,2.2,=,1.2,,,✓
+Liu21,10.1016/j.chom.2021.01.014,Pseudovirus (VSV),"Figure 4AB, Figure S5A; Figure 4C, Figure 5B",Wild Type,1m,Human,Wild Type (B),=,392.5,5.3,E484A,484,17,=,20.7,4.5,=,12.5,4.0,15.9,✓
+Liu21,10.1016/j.chom.2021.01.014,Pseudovirus (VSV),"Figure 4AB, Figure S5A; Figure 4C, Figure 5B",Wild Type,1m,Human,Wild Type (B),=,392.5,5.3,E484D,484,17,<,28.3,3.6,>,12.5,3.9,31.6,✓
+Weigang21,10.1038/s41467-021-26602-3,Pseudovirus (VSV),"Figure 5d, Source data",Wild Type,1m,Human,Wild Type (B.1),=,1480.0,1.0,E484G,484,1,=,1314.0,1.0,=,1.1,,,✓
+Liu21,10.1016/j.chom.2021.01.014,Pseudovirus (VSV),"Figure 4AB, Figure S5A",Wild Type,1m,Human,Wild Type (B),=,316.2,1.9,E484G,484,3,<,40.0,1.0,>,12.5,7.9,12.5,✓
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,292.9,3.1,E484K,484,16,=,38.0,5.3,=,3.7,2.5,7.1,✓
+Greaney21c,10.1126/scitranslmed.abi9915,Pseudovirus (HIV),Data file S3,Wild Type,2-6m,Human,Wild Type (B.1),=,871.1,1.5,E484K,484,6,=,63.1,4.0,=,14.6,5.3,19.9,✓
+Ren22,10.1128/mbio.00099-22,Pseudovirus (lentivirus),Figure 4C,Wild Type,1m,Human,Wild Type (B.1),=,855.6,5.2,E484K,484,9,=,306.5,4.9,=,2.0,1.3,2.5,✓
+Tada21,10.1128/mBio.00696-21,Pseudovirus (HIV),Fig S3B,Wild Type,1m,Human,Wild Type (B.1),=,263.9,1.7,E484K,484,10,=,166.5,1.4,=,1.6,1.3,1.9,✓
+Tada21c,10.1016/j.isci.2021.103341,Pseudovirus (HIV),Supplemental Figure 2A,Unknown variant,1m,Human,Wild Type (B.1),=,284.0,1.0,E484K,484,10,=,119.0,1.0,=,2.4,,,
+Tada21e,10.3389/fimmu.2022.797589,Pseudovirus (HIV),Supplementary Figure S1A,Wild Type,2-6m,Human,Wild Type (B.1),=,296.3,1.9,E484K,484,8,=,57.4,1.7,=,5.2,3.8,6.6,✓
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,1012.6,2.6,E484K,484,15,=,376.3,2.9,=,2.7,2.2,3.1,✓
+Wang21f,10.1016/j.immuni.2021.06.003,Pseudovirus (HIV),"Figure 3C, Figure S4",Wild Type,2-6m,Human,Wild Type (B.1),=,772.0,3.0,E484K,484,24,=,642.4,2.8,=,1.2,0.8,1.4,✓
+Zhou21c,10.1128/mBio.01386-21,Pseudovirus (HIV),Figure 2A,Wild Type,1m,Human,Wild Type (B.1),=,205.8,1.1,E484K,484,6,=,60.9,1.2,=,3.3,3.1,4.0,✓
+Wang21b,10.1038/s41586-021-03398-2,Pseudovirus (VSV),Fig. 3b,Wild Type,1m,Human,Wild Type (B.1),,,,E484K,484,20,,,,=,4.2,2.5,8.3,✓
+Greaney22b,10.1371/journal.ppat.1010248,Pseudovirus (lentivirus),"Fig S5, Supplementary File 5",Wild Type,2-6m,Human,Wild Type (B),=,786.7,1.7,E484K,484,6,=,63.1,4.0,=,12.1,4.0,19.9,✓
+Greaney22b,10.1371/journal.ppat.1010248,Pseudovirus (lentivirus),"Fig S5, Supplementary File 5",Wild Type,1m,Human,Wild Type (B),=,2299.6,3.4,E484K,484,4,=,77.2,9.0,=,28.9,11.6,63.6,✓
+Liu21,10.1016/j.chom.2021.01.014,Pseudovirus (VSV),"Figure 4AB, Figure S5A; Figure 4C, Figure 5B",Wild Type,1m,Human,Wild Type (B),=,392.5,5.3,E484K,484,17,<,28.3,2.9,>,12.5,3.2,31.3,✓
+Schmidt21,10.1038/s41586-021-04005-0,Pseudovirus (VSV),RU27-panel of figure 2e,Wild Type,1m,Human,Wild Type (B),=,10691.0,1.0,E484K,484,1,=,4545.0,1.0,=,2.4,,,✓
+Weisblum20,10.7554/elife.61312,Pseudovirus (VSV),Figure 6C,Wild Type,1m,Human,Wild Type (B),=,4381.0,5.4,E484K,484,4,=,1284.3,8.4,=,4.5,2.5,6.1,✓
+Zeng21,10.1128/mBio.02510-21,Pseudovirus (lentivirus),Figure 1b; Figure 1c,Wild Type,1m,Human,Wild Type (B),=,2345.7,3.0,E484K,484,18,=,853.3,2.8,=,2.9,2.7,2.9,✓
+Nguyen21,10.1093/infdis/jiab563,Pseudovirus,Figure 1G,Wild Type,1m,Human,Wild Type (B),,,,E484K,484,20,,,,=,2.4,,,
+Jangra21,10.1016/S2666-5247(21)00068-9,SARS-CoV-2 recombinant,Figure,Wild Type,≥6m,Human,Wild Type (A),=,135.1,2.7,E484K,484,12,=,15.8,5.1,=,4.0,1.9,8.0,✓
+Jangra21,10.1016/S2666-5247(21)00068-9,SARS-CoV-2 recombinant,Figure,Wild Type,1m,Human,Wild Type (A),=,205.8,2.1,E484K,484,10,=,46.4,5.1,=,3.1,1.6,4.6,✓
+Jangra21,10.1016/S2666-5247(21)00068-9,SARS-CoV-2 recombinant,Figure,Wild Type,2-6m,Human,Wild Type (A),=,96.1,2.2,E484K,484,2,=,16.1,6.1,=,4.2,3.1,5.3,✓
+Zhang21c,10.1038/s42003-021-02728-4,Pseudovirus (VSV),Figure 6D,Beta,2-6m,Human,Beta,,,,E484K,484,3,,,,=,1.2,,,
+Zhang21c,10.1038/s42003-021-02728-4,Pseudovirus (VSV),Figure 6C,Alpha,2-6m,Human,Alpha,,,,E484K,484,4,,,,=,4.0,,,
+Cao21b,10.1038/s41422-021-00514-9,Pseudovirus (VSV),Table S3,Wild Type,1m,Human,Wild Type (B.1),=,536.2,1.5,E484K,484,7,=,318.9,1.3,=,1.4,1.1,2.6,✓
+Cao21b,10.1038/s41422-021-00514-9,Pseudovirus (VSV),Table S3,Wild Type,2-6m,Human,Wild Type (B.1),=,686.9,1.3,E484K,484,3,=,386.0,1.1,=,1.6,1.6,2.0,✓
+Greaney21,10.1016/j.chom.2021.02.003,Pseudovirus (HIV),Figure 5; git.io/JCEvr,Wild Type,1m,Human,Wild Type (B.1),=,3155.3,6.3,E484K,484,4,=,195.5,20.6,=,9.4,4.7,38.3,✓
+Greaney21,10.1016/j.chom.2021.02.003,Pseudovirus (HIV),Figure 5; git.io/JCEvr,Wild Type,2-6m,Human,Wild Type (B.1),=,1548.0,1.0,E484K,484,1,=,65.0,1.0,=,23.8,,,✓
+Greaney22,10.1371/journal.ppat.1010592,Pseudovirus (lentivirus),S1 Data,Wild Type,1m,Human,Wild Type (B.1),=,2299.2,3.4,E484K,484,4,=,77.3,9.0,=,28.7,11.6,63.4,✓
+Greaney22,10.1371/journal.ppat.1010592,Pseudovirus (lentivirus),S1 Data,Wild Type,2-6m,Human,Wild Type (B.1),=,786.6,1.7,E484K,484,6,=,63.0,4.0,=,12.1,4.0,20.0,✓
+Yi21,10.1186/s13073-021-00985-w,Pseudovirus (HIV),Figure 6a,Wild Type,2-6m,Human,Wild Type (B.1),=,2931.1,2.0,E484K,484,9,=,1251.3,1.5,=,2.5,1.9,2.7,✓
+Li21c,10.1016/j.cell.2021.02.042,Pseudovirus (VSV),Figure 4B; Figure 5A,Wild Type,2-6m,Human,Wild Type (B.1),=,1303.0,2.1,E484K,484,38,=,909.7,2.8,=,1.9,1.0,3.3,✓
+Li21c,10.1016/j.cell.2021.02.042,Pseudovirus (VSV),Figure 5A,Wild Type,≥6m,Human,Wild Type (B.1),,,,E484K,484,10,,,,=,1.0,1.0,1.0,✓
+Zhang21c,10.1038/s42003-021-02728-4,Pseudovirus (VSV),Figure 6B,Wild Type,2-6m,Human,Wild Type (B.1),,,,E484K,484,5,,,,=,1.7,,,
+Greaney21c,10.1126/scitranslmed.abi9915,Pseudovirus (HIV),Data file S3,Wild Type,2-6m,Human,Wild Type (B.1),=,786.7,1.7,E484P,484,6,=,211.8,2.2,=,3.8,2.4,8.2,✓
+Greaney21,10.1016/j.chom.2021.02.003,Pseudovirus (HIV),Figure 5; git.io/JCEvr,Wild Type,1m,Human,Wild Type (B.1),=,2342.6,5.3,E484P,484,5,=,535.6,3.6,=,4.9,1.5,5.5,✓
+Greaney21,10.1016/j.chom.2021.02.003,Pseudovirus (HIV),Figure 5; git.io/JCEvr,Wild Type,2-6m,Human,Wild Type (B.1),=,518.6,2.1,E484P,484,5,=,243.3,1.9,=,1.9,1.6,2.0,✓
+Ding21,10.3389/fimmu.2021.693775,Pseudovirus (HIV),Figure 5C,Wild Type,2-6m,Human,Wild Type (B),=,579.4,1.0,E484Q,484,5,=,405.6,1.0,=,1.4,,,
+Greaney22b,10.1371/journal.ppat.1010248,Pseudovirus (lentivirus),"Fig S5, Supplementary File 5",Wild Type,1m,Human,Wild Type (B),=,2299.6,3.4,E484Q,484,4,=,80.6,7.1,=,24.0,12.0,43.2,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,E484Q,484,23,=,52.5,2.4,=,1.2,,,✓
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Figure 1B,Wild Type,1m,Human,Wild Type (B.1),=,536.3,1.9,E484Q,484,6,=,215.3,1.9,=,2.8,1.7,4.1,✓
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Figure 1C,L452R variants,1m,Human,Wild Type (B.1),=,243.7,1.3,E484Q,484,4,=,69.6,4.1,=,1.7,1.3,3.6,✓
+Ren22,10.1128/mbio.00099-22,Pseudovirus (lentivirus),Figure 4A,Wild Type,1m,Human,Wild Type (B.1),=,1497.6,3.5,E484Q,484,9,=,705.7,3.0,=,2.7,1.0,3.4,✓
+Tada21c,10.1016/j.isci.2021.103341,Pseudovirus (HIV),Supplemental Figure 2A,Unknown variant,1m,Human,Wild Type (B.1),=,284.0,1.0,E484Q,484,10,=,110.0,1.0,=,2.6,,,
+Greaney21,10.1016/j.chom.2021.02.003,Pseudovirus (HIV),Figure 5; git.io/JCEvr,Wild Type,1m,Human,Wild Type (B.1),=,2156.3,4.0,E484Q,484,5,=,252.3,13.5,=,13.0,1.2,18.7,✓
+Greaney21,10.1016/j.chom.2021.02.003,Pseudovirus (HIV),Figure 5; git.io/JCEvr,Wild Type,2-6m,Human,Wild Type (B.1),=,780.4,2.1,E484Q,484,5,=,182.0,8.2,=,4.7,0.6,8.3,✓
+Yi21,10.1186/s13073-021-00985-w,Pseudovirus (HIV),Figure 6a,Wild Type,2-6m,Human,Wild Type (B.1),=,2931.1,2.0,E484Q,484,9,=,1527.2,1.6,=,1.9,1.7,2.5,✓
+Greaney21,10.1016/j.chom.2021.02.003,Pseudovirus (HIV),Figure 5; git.io/JCEvr,Wild Type,1m,Human,Wild Type (B.1),=,374.0,1.0,G485R,485,1,=,68.0,1.0,=,5.5,,,✓
+Greaney21,10.1016/j.chom.2021.02.003,Pseudovirus (HIV),Figure 5; git.io/JCEvr,Wild Type,2-6m,Human,Wild Type (B.1),=,596.0,1.0,G485R,485,1,=,197.0,1.0,=,3.0,,,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,G485S,485,22,=,50.0,2.3,=,1.2,,,✓
+Wang21f,10.1016/j.immuni.2021.06.003,Pseudovirus (HIV),"Figure 3C, Figure S4",Wild Type,2-6m,Human,Wild Type (B.1),=,772.0,3.0,F486L,486,24,=,1067.7,3.0,=,0.8,0.7,0.8,✓
+Yi21,10.1186/s13073-021-00985-w,Pseudovirus (HIV),Figure 6a,Wild Type,2-6m,Human,Wild Type (B.1),=,2931.1,2.0,F486L,486,9,=,1534.3,1.6,=,1.9,1.6,2.7,✓
+Liu21,10.1016/j.chom.2021.01.014,Pseudovirus (VSV),"Figure 4AB, Figure S5A",Wild Type,1m,Human,Wild Type (B),=,316.2,1.9,F486S,486,3,=,251.2,1.6,=,1.3,1.1,1.5,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,F486S,486,24,=,42.8,2.7,=,1.4,,,✓
+Liu21,10.1016/j.chom.2021.01.014,Pseudovirus (VSV),"Figure 4AB, Figure S5A",Wild Type,1m,Human,Wild Type (B),=,316.2,1.9,F486Y,486,3,=,630.7,2.0,=,0.4,0.3,0.7,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,N487R,487,25,=,13.6,3.9,=,2.8,,,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,F490L,490,10,,,,=,2.6,1.8,4.0,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,F490L,490,25,=,22.2,3.2,=,2.2,,,✓
+Weigang21,10.1038/s41467-021-26602-3,Pseudovirus (VSV),"Figure 5d, Source data",Wild Type,1m,Human,Wild Type (B.1),=,1480.0,1.0,F490L,490,1,=,1324.0,1.0,=,1.1,,,✓
+Liu21,10.1016/j.chom.2021.01.014,Pseudovirus (VSV),"Figure 4AB, Figure S5A",Wild Type,1m,Human,Wild Type (B),=,316.2,1.9,F490S,490,3,<,40.0,13.5,>,3.2,1.8,7.9,✓
+Tada21d,10.1101/2021.07.02.450959,Pseudovirus (HIV),Figure 1A,Unknown variant,1m,Human,Wild Type (B.1),=,296.0,1.9,F490S,490,8,=,112.2,1.9,=,2.4,1.7,3.2,✓
+Tada21e,10.3389/fimmu.2022.797589,Pseudovirus (HIV),Supplementary Figure S1A,Wild Type,2-6m,Human,Wild Type (B.1),=,296.3,1.9,F490S,490,8,=,111.6,2.0,=,2.4,1.7,3.2,✓
+Wang21l,10.1080/22221751.2021.2008775,Pseudovirus (VSV),Figure 3A,Wild Type,1m,Human,Wild Type (B.1),,,,F490S,490,14,,,,=,2.0,2.0,2.0,✓
+Yi21,10.1186/s13073-021-00985-w,Pseudovirus (HIV),Figure 6a,Wild Type,2-6m,Human,Wild Type (B.1),=,2931.1,2.0,F490S,490,9,=,1538.6,2.0,=,1.7,1.5,2.3,✓
+Weisblum20,10.7554/elife.61312,Pseudovirus (VSV),Figure 6C,Wild Type,1m,Human,Wild Type (B),=,4381.0,5.4,Q493R,493,4,=,3715.7,9.2,=,1.0,0.8,1.6,✓
+Rees-Spear21,10.1016/j.celrep.2021.108890,Pseudovirus (HIV),Figure 2B,Wild Type,1m,Human,Wild Type (B),=,1107.2,2.9,S494D,494,36,=,660.2,3.7,=,1.6,1.1,2.6,✓
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2; Table S5,Wild Type,1m,Human,Wild Type (B.1),=,290.0,3.2,S494P,494,31,=,57.1,5.7,=,2.6,2.2,3.6,✓
+Liu21,10.1016/j.chom.2021.01.014,Pseudovirus (VSV),"Figure 4AB, Figure S5A",Wild Type,1m,Human,Wild Type (B),=,316.2,1.9,S494P,494,3,=,681.0,2.2,=,0.4,0.3,0.7,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,S494P,494,25,=,50.1,2.3,=,1.2,,,✓
+Greaney21,10.1016/j.chom.2021.02.003,Pseudovirus (HIV),Figure 5; git.io/JCEvr,Wild Type,1m,Human,Wild Type (B.1),=,430.9,2.2,S494P,494,2,=,273.2,2.0,=,1.6,1.5,1.7,✓
+Greaney21,10.1016/j.chom.2021.02.003,Pseudovirus (HIV),Figure 5; git.io/JCEvr,Wild Type,2-6m,Human,Wild Type (B.1),=,403.0,1.3,S494P,494,2,=,142.6,1.2,=,2.9,2.7,3.0,✓
+Scherer22,10.1056/NEJMc2202861,Pseudovirus,Fig 11B,Wild Type,1m,Human,Wild Type (B),=,4582.6,1.5,S494P,494,2,<,30.0,1.0,>,166.7,133.3,200.0,✓
+Scherer22,10.1056/NEJMc2202861,Pseudovirus,Fig 11B,Wild Type,2-6m,Human,Wild Type (B),=,814.3,1.2,S494P,494,3,<,30.0,1.0,>,30.0,25.0,31.6,✓
+Liu21,10.1016/j.chom.2021.01.014,Pseudovirus (VSV),"Figure 4AB, Figure S5A",Wild Type,1m,Human,Wild Type (B),=,316.2,1.9,P499L,499,3,=,1584.8,3.1,=,0.3,0.2,0.3,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,P499R,499,24,=,40.6,2.6,=,1.4,,,✓
+Graham21,10.1016/j.immuni.2021.03.023,Pseudovirus (HIV),"Figure S5, Figure 6",Wild Type,2-6m,Human,Wild Type (B),=,977.7,2.0,N501Y,501,2,=,1382.7,2.8,=,0.8,0.6,0.9,✓
+Greaney22b,10.1371/journal.ppat.1010248,Pseudovirus (lentivirus),"Fig S5, Supplementary File 5",Wild Type,1m,Human,Wild Type (B),=,2299.6,3.4,N501Y,501,4,=,1593.5,3.1,=,1.4,1.3,1.6,✓
+Zeng21,10.1128/mBio.02510-21,Pseudovirus (lentivirus),Figure 1b; Figure 1c,Wild Type,1m,Human,Wild Type (B),=,2345.7,3.0,N501Y,501,18,=,2180.6,4.0,=,1.5,1.1,1.5,✓
+Nguyen21,10.1093/infdis/jiab563,Pseudovirus,Figure 1G,Wild Type,1m,Human,Wild Type (B),,,,N501Y,501,20,,,,=,1.4,,,
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,N501Y,501,25,=,64.4,2.1,=,1.0,,,✓
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,205.0,2.9,N501Y,501,12,=,59.4,4.9,=,2.5,1.7,2.9,✓
+Rees-Spear21,10.1016/j.celrep.2021.108890,Pseudovirus (HIV),Figure 4B,Wild Type,1m,Human,Wild Type (B.1),=,772.3,3.3,N501Y,501,31,=,510.5,5.1,=,1.2,0.9,1.8,✓
+Tada21,10.1128/mBio.00696-21,Pseudovirus (HIV),Table 1,Wild Type,1m,Human,Wild Type (B.1),=,112.0,2.0,N501Y,501,18,=,176.0,1.9,=,0.7,0.5,0.9,✓
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,1012.6,2.6,N501Y,501,15,=,828.1,2.6,=,1.4,1.1,1.5,✓
+Wang21f,10.1016/j.immuni.2021.06.003,Pseudovirus (HIV),"Figure 3C, Figure S4",Wild Type,2-6m,Human,Wild Type (B.1),=,772.0,3.0,N501Y,501,24,=,940.7,3.0,=,0.8,0.7,1.0,✓
+Wang21b,10.1038/s41586-021-03398-2,Pseudovirus (VSV),Fig. 3b,Wild Type,1m,Human,Wild Type (B.1),,,,N501Y,501,20,,,,=,1.3,1.0,2.0,✓
+Edara21,10.1001/jama.2021.4388,SARS-CoV-2 recombinant,"Figure, preprint 2021.02.02.21250799 figure 1B",Wild Type,1m,Human,Wild Type (B.1),=,181.5,2.7,N501Y,501,16,=,234.5,2.6,=,0.7,0.6,1.1,✓
+Edara21,10.1001/jama.2021.4388,SARS-CoV-2 recombinant,"Figure, preprint 2021.02.02.21250799 figure 1C",Wild Type,2-6m,Human,Wild Type (B.1),=,331.2,3.2,N501Y,501,19,=,474.2,3.0,=,0.7,0.5,1.1,✓
+Cao21b,10.1038/s41422-021-00514-9,Pseudovirus (VSV),Table S3,Wild Type,1m,Human,Wild Type (B.1),=,536.2,1.5,N501Y,501,7,=,460.3,1.4,=,1.1,1.0,1.4,✓
+Cao21b,10.1038/s41422-021-00514-9,Pseudovirus (VSV),Table S3,Wild Type,2-6m,Human,Wild Type (B.1),=,686.9,1.3,N501Y,501,3,=,481.0,1.1,=,1.4,1.3,1.6,✓
+Shen21,10.1016/j.chom.2021.03.002,Pseudovirus (lentivirus),Table S1,Wild Type,2-6m,Human,Wild Type (B.1),=,788.9,4.1,N501Y,501,15,=,419.4,4.2,=,2.2,1.1,3.0,✓
+Yi21,10.1186/s13073-021-00985-w,Pseudovirus (HIV),Figure 6a,Wild Type,2-6m,Human,Wild Type (B.1),=,2931.1,2.0,N501Y,501,9,=,1827.1,2.1,=,1.6,1.3,1.7,✓
+Li21c,10.1016/j.cell.2021.02.042,Pseudovirus (VSV),Figure 4B; Figure 5A,Wild Type,2-6m,Human,Wild Type (B.1),=,1303.0,2.1,N501Y,501,38,=,1303.8,2.5,=,1.0,1.0,1.0,✓
+Li21c,10.1016/j.cell.2021.02.042,Pseudovirus (VSV),Figure 5A,Wild Type,≥6m,Human,Wild Type (B.1),,,,N501Y,501,10,,,,=,1.0,1.0,1.0,✓
+Zhang21c,10.1038/s42003-021-02728-4,Pseudovirus (VSV),Figure 6B,Wild Type,2-6m,Human,Wild Type (B.1),,,,N501Y,501,5,,,,=,1.2,,,
+Zhang21c,10.1038/s42003-021-02728-4,Pseudovirus (VSV),Figure 6C,Alpha,2-6m,Human,Alpha,,,,N501Y,501,4,,,,=,1.8,,,
+Zhang21c,10.1038/s42003-021-02728-4,Pseudovirus (VSV),Figure 6D,Beta,2-6m,Human,Beta,,,,N501Y,501,3,,,,=,1.5,,,
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,V503F,503,25,=,45.0,3.2,=,1.2,,,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,Y505C,505,22,=,11.7,3.9,=,3.1,,,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,Y508H,508,10,,,,=,0.9,0.8,1.1,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,Y508H,508,24,=,51.4,2.8,=,1.1,,,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,H519P,519,20,,,,=,1.3,0.9,1.5,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,H519Q,519,10,,,,=,1.0,0.8,1.3,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,A520S,520,10,,,,=,0.9,0.8,1.3,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,A520S,520,24,=,64.4,2.0,=,1.0,,,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,A520V,520,22,=,62.4,1.9,=,1.0,,,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,P521S,521,24,=,62.0,1.9,=,1.0,,,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,A522S,522,10,,,,=,1.2,1.1,1.5,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,A522V,522,10,,,,=,1.1,1.0,1.2,✓
+Zhang21f,10.1101/2021.05.15.21257254,Pseudovirus,Figure 4D,Unknown variant,1m,Human,Wild Type (B),=,64.4,1.9,A522V,522,24,=,62.4,1.7,=,1.0,,,✓
+Wang21b,10.1038/s41586-021-03398-2,Pseudovirus (VSV),Fig. 3b,Wild Type,1m,Human,Wild Type (B.1),,,,A570D,570,20,,,,=,1.0,0.7,1.1,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,N603Q,603,10,,,,=,0.9,0.8,1.0,✓
+Khan22b,10.1038/s41586-022-04830-x,Virus isolate,Figure 2a,Omicron/BA.1,1m,Human,Omicron/BA.1,=,270.5,5.1,B.1.1.117 (A688V),688,24,=,76.3,14.6,=,5.3,0.4,10.2,✓
+Cele21,10.1038/s41586-021-03471-w,Virus isolate,Fig 2E,Beta,1m,Human,Beta,=,624.4,1.2,B.1.1.117 (A688V),688,6,=,155.1,1.6,=,4.4,3.2,6.2,✓
+Li21c,10.1016/j.cell.2021.02.042,Pseudovirus (VSV),Figure 4B,Wild Type,2-6m,Human,Wild Type (B.1),=,1303.0,2.1,A701V,701,18,=,1386.3,2.0,=,0.9,,,✓
+Kemp21,10.1038/s41586-021-03291-y,Pseudovirus (HIV),Fig 4C; Ext Data Fig 7B; Fig 4D; Ext Data Fig 7B; Fig 4E; Ext Data Fig 7B,Wild Type,2-6m,Human,Wild Type (B.1),=,272.6,1.8,D796H,796,3,=,144.0,2.1,=,2.0,1.6,2.3,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,A831V,831,20,,,,=,1.7,1.4,1.8,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,A845S,845,10,,,,=,1.3,1.1,1.3,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,A879S,879,10,,,,=,1.4,1.3,1.6,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,D936Y,936,20,,,,=,0.9,0.8,1.0,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,S939F,939,10,,,,=,1.3,1.0,1.4,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,S943T,943,20,,,,=,1.1,1.0,1.2,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,M1229I,1229,10,,,,=,1.1,1.0,1.2,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,M1237I,1237,10,,,,=,1.5,1.3,1.8,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,P1263L,1263,10,,,,=,1.3,1.0,1.6,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,V615L,615,10,,,,=,0.6,0.5,0.8,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,N616Q,616,10,,,,=,0.8,0.6,1.1,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,N657Q,657,10,,,,=,0.7,0.5,1.0,✓
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,205.0,2.9,Q675H,675,12,=,192.8,3.3,=,1.0,0.9,1.2,✓
+Zeng21,10.1128/mBio.02510-21,Pseudovirus (lentivirus),Figure 1b; Figure 1c,Wild Type,1m,Human,Wild Type (B),=,2345.7,3.0,Q677H,677,18,=,3037.0,3.9,=,1.0,0.8,1.0,✓
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,1012.6,2.6,P681H,681,15,=,852.2,2.9,=,1.3,1.0,1.4,✓
+Wang21b,10.1038/s41586-021-03398-2,Pseudovirus (VSV),Fig. 3b,Wild Type,1m,Human,Wild Type (B.1),,,,P681H,681,20,,,,=,1.5,1.0,1.8,✓
+Ren22,10.1128/mbio.00099-22,Pseudovirus (lentivirus),Figure 4A,Wild Type,1m,Human,Wild Type (B.1),=,1497.6,3.5,P681R,681,9,=,948.6,2.9,=,1.1,0.6,2.9,✓
+Tada21c,10.1016/j.isci.2021.103341,Pseudovirus (HIV),Supplemental Figure 2A,Unknown variant,1m,Human,Wild Type (B.1),=,284.0,1.0,P681R,681,10,=,285.0,1.0,=,1.0,,,
+Tada21,10.1128/mBio.00696-21,Pseudovirus (HIV),Fig S3C,Wild Type,1m,Human,Wild Type (B.1),=,177.0,1.3,A701V,701,5,=,158.0,1.3,=,1.1,1.0,1.2,✓
+Wang21b,10.1038/s41586-021-03398-2,Pseudovirus (VSV),Fig. 3b,Wild Type,1m,Human,Wild Type (B.1),,,,A701V,701,20,,,,=,1.7,1.1,1.9,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,N709Q,709,10,,,,=,0.3,0.3,0.4,✓
+Wang21b,10.1038/s41586-021-03398-2,Pseudovirus (VSV),Fig. 3b,Wild Type,1m,Human,Wild Type (B.1),,,,T716I,716,20,,,,=,1.4,1.0,2.1,✓
+Schmidt21,10.1038/s41586-021-04005-0,Pseudovirus (VSV),RU27-panel of figure 2e,Wild Type,1m,Human,Wild Type (B),=,4532.5,1.0,P792H,792,1,=,1234.0,1.0,=,3.7,,,✓
+Schmidt21,10.1038/s41586-021-04005-0,Pseudovirus (VSV),RU27-panel of figure 2e,Wild Type,1m,Human,Wild Type (B),=,9490.0,1.0,I794T,794,1,=,7199.0,1.0,=,1.3,,,✓
+Schmidt21,10.1038/s41586-021-04005-0,Pseudovirus (VSV),RU27-panel of figure 2e,Wild Type,1m,Human,Wild Type (B),=,3342.0,1.0,N801D,801,1,=,997.9,1.0,=,3.3,,,✓
+Schmidt21,10.1038/s41586-021-04005-0,Pseudovirus (VSV),RU27-panel of figure 2e,Wild Type,1m,Human,Wild Type (B),=,15611.0,1.0,S813I,813,1,=,6876.0,1.0,=,2.3,,,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,D839E,839,10,,,,=,1.1,1.0,1.6,✓
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,205.0,2.9,D839Y,839,12,=,106.4,3.9,=,1.8,1.3,1.9,✓
+Tada21d,10.1101/2021.07.02.450959,Pseudovirus (HIV),Figure 1A,Unknown variant,1m,Human,Wild Type (B.1),=,296.0,1.9,T859N,859,8,=,372.0,1.5,=,0.8,0.8,0.8,✓
+Tada21e,10.3389/fimmu.2022.797589,Pseudovirus (HIV),Supplementary Figure S1A,Wild Type,2-6m,Human,Wild Type (B.1),=,296.3,1.9,T859N,859,8,=,370.9,1.5,=,0.8,0.8,0.8,✓
+Wang21l,10.1080/22221751.2021.2008775,Pseudovirus (VSV),Figure 3A,Wild Type,1m,Human,Wild Type (B.1),,,,T859N,859,14,,,,=,1.0,1.0,1.0,✓
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,205.0,2.9,D936Y,936,12,=,203.0,3.2,=,1.3,0.8,1.6,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,S943R,943,10,,,,=,1.4,1.2,1.6,✓
+Uriu22,10.1093/infdis/jiac053,Pseudovirus,Supplementary Table 1,Wild Type,1m,Human,Wild Type (B.1),=,1012.6,2.6,D950N,950,15,=,843.1,3.5,=,1.2,1.0,1.4,✓
+Wang21b,10.1038/s41586-021-03398-2,Pseudovirus (VSV),Fig. 3b,Wild Type,1m,Human,Wild Type (B.1),,,,S982A,982,20,,,,=,1.9,1.1,2.7,✓
+Schmidt21,10.1038/s41586-021-04005-0,Pseudovirus (VSV),RU27-panel of figure 2e,Wild Type,1m,Human,Wild Type (B),=,5020.0,1.0,V1061M,1061,1,=,6525.0,1.0,=,0.8,,,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,N1098Q,1098,10,,,,=,0.8,0.5,1.0,✓
+Wang21b,10.1038/s41586-021-03398-2,Pseudovirus (VSV),Fig. 3b,Wild Type,1m,Human,Wild Type (B.1),,,,D1118H,1118,20,,,,=,1.4,1.0,1.9,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,G1124V,1124,10,,,,=,1.4,1.2,1.6,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,N1134Q,1134,10,,,,=,0.9,0.8,1.1,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,N1158Q,1158,10,,,,=,0.7,0.6,0.8,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,N1173Q,1173,10,,,,=,0.4,0.3,0.6,✓
+Li20h,10.1016/j.cell.2020.07.012,Pseudovirus (VSV),"Figure 5, Figure S3",Wild Type,1m,Human,Wild Type (B),,,,N1194Q,1194,10,,,,=,0.7,0.5,0.9,✓

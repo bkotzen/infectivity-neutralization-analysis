@@ -1,0 +1,12 @@
+﻿Reference,Reference: DOI,Assay,Section,Infection (CP),Months,Host,Control,Control: NT50 Cmp,Control: NT50 GeoMean,Control: NT50 GSD,Variant,Variant: Pos,Variant: Mutations,# Results,Potency: NT50 Cmp,Potency: NT50 GeoMean,Potency: NT50 GSD,Fold Reduction: Cmp,Fold Reduction: Median
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,293.0,1.0,Alpha,69,Δ69-70 + Δ141 + Δ144-145 + N501Y + A570D + P681H + T716I + S982A + D1118H,1,=,370.0,1.0,=,0.8
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,327.0,1.0,Alpha,69,Δ69-70 + Δ141 + Δ144-145 + N501Y + A570D + P681H + T716I + S982A + D1118H,1,=,147.0,1.0,=,2.2
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,318.0,1.0,Alpha,69,Δ69-70 + Δ141 + Δ144-145 + N501Y + A570D + P681H + T716I + S982A + D1118H,1,=,132.0,1.0,=,2.4
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,718.0,1.0,Alpha,69,Δ69-70 + Δ141 + Δ144-145 + N501Y + A570D + P681H + T716I + S982A + D1118H,1,=,193.0,1.0,=,3.7
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,773.0,1.0,Alpha,69,Δ69-70 + Δ141 + Δ144-145 + N501Y + A570D + P681H + T716I + S982A + D1118H,1,=,340.0,1.0,=,2.3
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,7834.0,1.0,Alpha,69,Δ69-70 + Δ141 + Δ144-145 + N501Y + A570D + P681H + T716I + S982A + D1118H,1,=,2801.0,1.0,=,2.8
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,430.0,1.0,Alpha,69,Δ69-70 + Δ141 + Δ144-145 + N501Y + A570D + P681H + T716I + S982A + D1118H,1,=,194.0,1.0,=,2.2
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,349.0,1.0,Alpha,69,Δ69-70 + Δ141 + Δ144-145 + N501Y + A570D + P681H + T716I + S982A + D1118H,1,=,210.0,1.0,=,1.7
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,1762.0,1.0,Alpha,69,Δ69-70 + Δ141 + Δ144-145 + N501Y + A570D + P681H + T716I + S982A + D1118H,1,=,2054.0,1.0,=,0.9
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,834.0,1.0,Alpha,69,Δ69-70 + Δ141 + Δ144-145 + N501Y + A570D + P681H + T716I + S982A + D1118H,1,=,235.0,1.0,=,3.5
+Uriu21,10.1056/NEJMc2114706,Pseudovirus (HIV),Table S6,Wild Type,1m,Human,Wild Type (B.1),=,2579.0,1.0,Alpha,69,Δ69-70 + Δ141 + Δ144-145 + N501Y + A570D + P681H + T716I + S982A + D1118H,1,=,893.0,1.0,=,2.9

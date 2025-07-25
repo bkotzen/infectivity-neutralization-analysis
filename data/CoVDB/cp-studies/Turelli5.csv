@@ -1,0 +1,9 @@
+﻿Reference,Reference: DOI,Assay,Section,Infection (CP),Months,Host,Control,Control: NT50 Cmp,Control: NT50 GeoMean,Control: NT50 GSD,Variant,Variant: Pos,Variant: Mutations,# Results,Potency: NT50 Cmp,Potency: NT50 GeoMean,Potency: NT50 GSD,Fold Reduction: Cmp,Fold Reduction: Median
+Turelli22,10.1101/2022.05.02.22274436,Virus isolate,Figure 2G,Delta,2-6m,Human,Wild Type (B.1),=,239.0,1.0,Beta,18,L18F + D80A + D215G + K417N + E484K + N501Y + A701V,1,=,92.0,1.0,=,2.6
+Turelli22,10.1101/2022.05.02.22274436,Virus isolate,Figure 2G,Delta,2-6m,Human,Wild Type (B.1),=,77.0,1.0,Beta,18,L18F + D80A + D215G + K417N + E484K + N501Y + A701V,1,<,6.0,1.0,>,12.8
+Turelli22,10.1101/2022.05.02.22274436,Virus isolate,Figure 2G,Delta,2-6m,Human,Wild Type (B.1),=,67.0,1.0,Beta,18,L18F + D80A + D215G + K417N + E484K + N501Y + A701V,1,<,6.0,1.0,>,11.2
+Turelli22,10.1101/2022.05.02.22274436,Virus isolate,Figure 2G,Delta,2-6m,Human,Wild Type (B.1),=,67.0,1.0,Beta,18,L18F + D80A + D215G + K417N + E484K + N501Y + A701V,1,<,8.0,1.0,>,8.4
+Turelli22,10.1101/2022.05.02.22274436,Virus isolate,Figure 2G,Delta,2-6m,Human,Wild Type (B.1),=,81.0,1.0,Beta,18,L18F + D80A + D215G + K417N + E484K + N501Y + A701V,1,<,29.0,1.0,>,2.8
+Turelli22,10.1101/2022.05.02.22274436,Virus isolate,Figure 2G,Delta,2-6m,Human,Wild Type (B.1),=,396.0,1.0,Beta,18,L18F + D80A + D215G + K417N + E484K + N501Y + A701V,1,=,64.0,1.0,=,6.2
+Turelli22,10.1101/2022.05.02.22274436,Virus isolate,Figure 2G,Delta,2-6m,Human,Wild Type (B.1),=,60.0,1.0,Beta,18,L18F + D80A + D215G + K417N + E484K + N501Y + A701V,1,<,31.0,1.0,>,1.9
+Turelli22,10.1101/2022.05.02.22274436,Virus isolate,Figure 2G,Delta,2-6m,Human,Wild Type (B.1),=,79.0,1.0,Beta,18,L18F + D80A + D215G + K417N + E484K + N501Y + A701V,1,<,20.0,1.0,>,4.0

@@ -1,0 +1,7 @@
+﻿Reference,Reference: DOI,Assay,Section,Infection (CP),Months,Host,Control,Control: NT50 Cmp,Control: NT50 GeoMean,Control: NT50 GSD,Variant,Variant: Pos,Variant: Mutations,# Results,Potency: NT50 Cmp,Potency: NT50 GeoMean,Potency: NT50 GSD,Fold Reduction: Cmp,Fold Reduction: Median
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Figure 1B,Wild Type,1m,Human,Wild Type (B.1),=,1391.0,1.0,Beta,18,L18F + D80A + D215G + Δ241-244 + K417N + E484K + N501Y + A701V,1,<,20.0,1.0,>,69.6
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Figure 1B,Wild Type,1m,Human,Wild Type (B.1),=,272.0,1.0,Beta,18,L18F + D80A + D215G + Δ241-244 + K417N + E484K + N501Y + A701V,1,<,20.0,1.0,>,13.6
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Figure 1B,Wild Type,1m,Human,Wild Type (B.1),=,282.0,1.0,Beta,18,L18F + D80A + D215G + Δ241-244 + K417N + E484K + N501Y + A701V,1,=,53.0,1.0,=,5.3
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Figure 1B,Wild Type,1m,Human,Wild Type (B.1),=,315.0,1.0,Beta,18,L18F + D80A + D215G + Δ241-244 + K417N + E484K + N501Y + A701V,1,<,20.0,1.0,>,15.8
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Figure 1B,Wild Type,1m,Human,Wild Type (B.1),=,865.0,1.0,Beta,18,L18F + D80A + D215G + Δ241-244 + K417N + E484K + N501Y + A701V,1,<,20.0,1.0,>,43.3
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Figure 1B,Wild Type,1m,Human,Wild Type (B.1),=,818.0,1.0,Beta,18,L18F + D80A + D215G + Δ241-244 + K417N + E484K + N501Y + A701V,1,<,20.0,1.0,>,40.9

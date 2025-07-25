@@ -1,0 +1,17 @@
+﻿Reference,Reference: DOI,Assay,Section,Pre-vaccine Infection,Vaccine,# Shots,Months,Host,Control,Control: NT50 Cmp,Control: NT50 GeoMean,Control: NT50 GSD,Variant,Variant: Pos,Variant: Mutations,# Results,Potency: NT50 Cmp,Potency: NT50 GeoMean,Potency: NT50 GSD,Fold Reduction: Cmp,Fold Reduction: Median
+Choi21,10.1128/JVI.01313-21,Pseudovirus (VSV),Fig 1A,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1808.0,1.0,Kappa,95,T95I + G142D + E154K + L452R + E484Q + P681R + Q1071H,1,=,650.0,1.0,=,2.8
+Choi21,10.1128/JVI.01313-21,Pseudovirus (VSV),Fig 1A,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1260.0,1.0,Kappa,95,T95I + G142D + E154K + L452R + E484Q + P681R + Q1071H,1,=,341.0,1.0,=,3.7
+Choi21,10.1128/JVI.01313-21,Pseudovirus (VSV),Fig 1A,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,2651.0,1.0,Kappa,95,T95I + G142D + E154K + L452R + E484Q + P681R + Q1071H,1,=,692.0,1.0,=,3.8
+Choi21,10.1128/JVI.01313-21,Pseudovirus (VSV),Fig 1A,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,3242.0,1.0,Kappa,95,T95I + G142D + E154K + L452R + E484Q + P681R + Q1071H,1,=,905.0,1.0,=,3.6
+Choi21,10.1128/JVI.01313-21,Pseudovirus (VSV),Fig 1A,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,2270.0,1.0,Kappa,95,T95I + G142D + E154K + L452R + E484Q + P681R + Q1071H,1,=,678.0,1.0,=,3.3
+Choi21,10.1128/JVI.01313-21,Pseudovirus (VSV),Fig 1A,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,2610.0,1.0,Kappa,95,T95I + G142D + E154K + L452R + E484Q + P681R + Q1071H,1,=,829.0,1.0,=,3.1
+Choi21,10.1128/JVI.01313-21,Pseudovirus (VSV),Fig 1A,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1215.0,1.0,Kappa,95,T95I + G142D + E154K + L452R + E484Q + P681R + Q1071H,1,=,366.0,1.0,=,3.3
+Choi21,10.1128/JVI.01313-21,Pseudovirus (VSV),Fig 1A,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1046.0,1.0,Kappa,95,T95I + G142D + E154K + L452R + E484Q + P681R + Q1071H,1,=,270.0,1.0,=,3.9
+Choi21,10.1128/JVI.01313-21,Pseudovirus (VSV),Fig 1A,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1808.0,1.0,Kappa,142,G142D + E154K + L452R + E484Q + P681R + Q1071H + H1101D,1,=,637.0,1.0,=,2.8
+Choi21,10.1128/JVI.01313-21,Pseudovirus (VSV),Fig 1A,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1260.0,1.0,Kappa,142,G142D + E154K + L452R + E484Q + P681R + Q1071H + H1101D,1,=,374.0,1.0,=,3.4
+Choi21,10.1128/JVI.01313-21,Pseudovirus (VSV),Fig 1A,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,2651.0,1.0,Kappa,142,G142D + E154K + L452R + E484Q + P681R + Q1071H + H1101D,1,=,640.0,1.0,=,4.1
+Choi21,10.1128/JVI.01313-21,Pseudovirus (VSV),Fig 1A,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,3242.0,1.0,Kappa,142,G142D + E154K + L452R + E484Q + P681R + Q1071H + H1101D,1,=,1101.0,1.0,=,2.9
+Choi21,10.1128/JVI.01313-21,Pseudovirus (VSV),Fig 1A,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,2270.0,1.0,Kappa,142,G142D + E154K + L452R + E484Q + P681R + Q1071H + H1101D,1,=,740.0,1.0,=,3.1
+Choi21,10.1128/JVI.01313-21,Pseudovirus (VSV),Fig 1A,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,2610.0,1.0,Kappa,142,G142D + E154K + L452R + E484Q + P681R + Q1071H + H1101D,1,=,873.0,1.0,=,3.0
+Choi21,10.1128/JVI.01313-21,Pseudovirus (VSV),Fig 1A,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1215.0,1.0,Kappa,142,G142D + E154K + L452R + E484Q + P681R + Q1071H + H1101D,1,=,325.0,1.0,=,3.7
+Choi21,10.1128/JVI.01313-21,Pseudovirus (VSV),Fig 1A,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1046.0,1.0,Kappa,142,G142D + E154K + L452R + E484Q + P681R + Q1071H + H1101D,1,=,298.0,1.0,=,3.5

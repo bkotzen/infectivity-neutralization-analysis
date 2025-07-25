@@ -1,0 +1,7 @@
+﻿Reference,Reference: DOI,Assay,Section,Pre-vaccine Infection,Vaccine,# Shots,Months,Host,Control,Control: NT50 Cmp,Control: NT50 GeoMean,Control: NT50 GSD,Variant,Variant: Pos,Variant: Mutations,# Results,Potency: NT50 Cmp,Potency: NT50 GeoMean,Potency: NT50 GSD,Fold Reduction: Cmp,Fold Reduction: Median
+Tada21e,10.3389/fimmu.2022.797589,Pseudovirus (HIV),Supplementary Figure S1B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1380.0,1.0,Δ246-252,241,Δ246-252,1,=,1175.0,1.0,=,1.2
+Tada21e,10.3389/fimmu.2022.797589,Pseudovirus (HIV),Supplementary Figure S1B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1963.0,1.0,Δ246-252,241,Δ246-252,1,=,1711.0,1.0,=,1.1
+Tada21e,10.3389/fimmu.2022.797589,Pseudovirus (HIV),Supplementary Figure S1B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1010.0,1.0,Δ246-252,241,Δ246-252,1,=,1137.0,1.0,=,0.9
+Tada21e,10.3389/fimmu.2022.797589,Pseudovirus (HIV),Supplementary Figure S1B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1305.0,1.0,Δ246-252,241,Δ246-252,1,=,878.0,1.0,=,1.5
+Tada21e,10.3389/fimmu.2022.797589,Pseudovirus (HIV),Supplementary Figure S1B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,1879.0,1.0,Δ246-252,241,Δ246-252,1,=,1704.0,1.0,=,1.1
+Tada21e,10.3389/fimmu.2022.797589,Pseudovirus (HIV),Supplementary Figure S1B,None,mRNA-1273,2,1m,Human,Wild Type (B.1),=,2028.0,1.0,Δ246-252,241,Δ246-252,1,=,2794.0,1.0,=,0.7

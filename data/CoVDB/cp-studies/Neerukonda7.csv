@@ -1,0 +1,5 @@
+﻿Reference,Reference: DOI,Assay,Section,Infection (CP),Months,Host,Control,Control: NT50 Cmp,Control: NT50 GeoMean,Control: NT50 GSD,Variant,Variant: Pos,Variant: Mutations,# Results,Potency: NT50 Cmp,Potency: NT50 GeoMean,Potency: NT50 GSD,Fold Reduction: Cmp,Fold Reduction: Median
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Figure 1C,L452R variants,1m,Human,Wild Type (B.1),=,164.0,1.0,Delta,19,T19R + G142D + Δ156-157 + R158G + L452R + T478K + P681R + D950N,1,=,400.0,1.0,=,0.4
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Figure 1C,L452R variants,1m,Human,Wild Type (B.1),=,330.0,1.0,Delta,19,T19R + G142D + Δ156-157 + R158G + L452R + T478K + P681R + D950N,1,=,131.0,1.0,=,2.5
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Figure 1C,L452R variants,1m,Human,Wild Type (B.1),=,228.0,1.0,Delta,19,T19R + G142D + Δ156-157 + R158G + L452R + T478K + P681R + D950N,1,=,71.0,1.0,=,3.2
+Neerukonda21,10.3390/v13122485,Pseudovirus (HIV),Figure 1C,L452R variants,1m,Human,Wild Type (B.1),=,286.0,1.0,Delta,19,T19R + G142D + Δ156-157 + R158G + L452R + T478K + P681R + D950N,1,=,199.0,1.0,=,1.4

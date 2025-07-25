@@ -1,0 +1,13 @@
+﻿Reference,Reference: DOI,Assay,Section,Infection (CP),Months,Host,Control,Control: NT50 Cmp,Control: NT50 GeoMean,Control: NT50 GSD,Variant,Variant: Pos,Variant: Mutations,# Results,Potency: NT50 Cmp,Potency: NT50 GeoMean,Potency: NT50 GSD,Fold Reduction: Cmp,Fold Reduction: Median
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,621.0,1.0,L5F + Q1208H,5,L5F + Q1208H,1,=,1973.0,1.0,=,0.3
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,120.0,1.0,L5F + Q1208H,5,L5F + Q1208H,1,=,85.0,1.0,=,1.4
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,43.0,1.0,L5F + Q1208H,5,L5F + Q1208H,1,=,78.0,1.0,=,0.6
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,954.0,1.0,L5F + Q1208H,5,L5F + Q1208H,1,=,399.0,1.0,=,2.4
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,581.0,1.0,L5F + Q1208H,5,L5F + Q1208H,1,=,648.0,1.0,=,0.9
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,783.0,1.0,L5F + Q1208H,5,L5F + Q1208H,1,=,1208.0,1.0,=,0.6
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,167.0,1.0,L5F + Q1208H,5,L5F + Q1208H,1,=,477.0,1.0,=,0.4
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,97.0,1.0,L5F + Q1208H,5,L5F + Q1208H,1,=,138.0,1.0,=,0.7
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,74.0,1.0,L5F + Q1208H,5,L5F + Q1208H,1,=,282.0,1.0,=,0.3
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,81.0,1.0,L5F + Q1208H,5,L5F + Q1208H,1,=,140.0,1.0,=,0.6
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,71.0,1.0,L5F + Q1208H,5,L5F + Q1208H,1,=,61.0,1.0,=,1.2
+Alenquer21,10.1371/journal.ppat.1009772,Pseudovirus (lentivirus),Table S2,Wild Type,1m,Human,Wild Type (B.1),=,573.0,1.0,L5F + Q1208H,5,L5F + Q1208H,1,=,699.0,1.0,=,0.8
