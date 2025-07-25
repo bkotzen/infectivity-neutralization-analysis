@@ -24,6 +24,18 @@ def expand_indels(mutations):
             expanded_mutations.append(mut)
     return ' + '.join(expanded_mutations)
 
+def canonize_indels(muts):
+    cleaned_mut_list = []
+    if not isinstance(muts, str):
+        return muts
+    
+    for mut in muts.split(' + '):
+        if 'del' in mut or 'Δ' in mut:
+            pos = int(''.join([_ for _ in mut if _.isdigit()]))
+            mut = f'Δ{pos}'
+        cleaned_mut_list.append(mut)
+    return ' + '.join(cleaned_mut_list)
+
 def extract_basevoc(varmut):
     greek_letters = ['alpha', 'beta', 'gamma', 'delta', 'epsilon', 'zeta', 'eta', 
                      'theta', 'iota', 'kappa', 'lambda', 'mu', 'nu', 'xi', 'omicron', 
@@ -255,7 +267,8 @@ def load_plasma_lite():
     plasma['Exposures'] = plasma.apply(lambda x: '>2' if x['Exposures']>2 else '<=2', axis=1)
     # Clean up WT nomenclature
     plasma['Most recent variant'] = plasma['Most recent variant'].apply(lambda x: 'B.1' if x in ['WT', 'Wild Type'] else x)
-        
+    # Canonize indels
+    plasma['Mutations'] = plasma['Mutations'].apply(canonize_indels)
     plasma = subset_plasma_lite(plasma)
     
     return plasma    
